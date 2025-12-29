@@ -1,0 +1,2401 @@
+venue,date,day_of_week,hour,total_courts,booked_courts,utilisation
+USC Hall,2025-12-25,Thursday,7,6,2,0.3
+USC Hall,2025-12-25,Thursday,8,6,2,0.4
+USC Hall,2025-12-25,Thursday,9,6,2,0.3
+USC Hall,2025-12-25,Thursday,10,6,1,0.2
+USC Hall,2025-12-25,Thursday,11,6,2,0.4
+USC Hall,2025-12-25,Thursday,12,6,3,0.5
+USC Hall,2025-12-25,Thursday,13,6,2,0.3
+USC Hall,2025-12-25,Thursday,14,6,3,0.5
+USC Hall,2025-12-25,Thursday,15,6,3,0.5
+USC Hall,2025-12-25,Thursday,16,6,2,0.4
+USC Hall,2025-12-25,Thursday,17,6,3,0.5
+USC Hall,2025-12-25,Thursday,18,6,4,0.7
+USC Hall,2025-12-25,Thursday,19,6,5,0.9
+USC Hall,2025-12-25,Thursday,20,6,4,0.7
+USC Hall,2025-12-25,Thursday,21,6,1,0.2
+USC Hall,2025-12-25,Thursday,22,6,1,0.2
+USC Hall,2025-12-26,Friday,7,6,3,0.5
+USC Hall,2025-12-26,Friday,8,6,2,0.3
+USC Hall,2025-12-26,Friday,9,6,2,0.3
+USC Hall,2025-12-26,Friday,10,6,1,0.2
+USC Hall,2025-12-26,Friday,11,6,1,0.2
+USC Hall,2025-12-26,Friday,12,6,3,0.4
+USC Hall,2025-12-26,Friday,13,6,2,0.3
+USC Hall,2025-12-26,Friday,14,6,1,0.2
+USC Hall,2025-12-26,Friday,15,6,3,0.5
+USC Hall,2025-12-26,Friday,16,6,2,0.4
+USC Hall,2025-12-26,Friday,17,6,2,0.4
+USC Hall,2025-12-26,Friday,18,6,5,0.8
+USC Hall,2025-12-26,Friday,19,6,4,0.6
+USC Hall,2025-12-26,Friday,20,6,3,0.5
+USC Hall,2025-12-26,Friday,21,6,3,0.4
+USC Hall,2025-12-26,Friday,22,6,3,0.5
+USC Hall,2025-12-27,Saturday,7,6,2,0.3
+USC Hall,2025-12-27,Saturday,8,6,3,0.5
+USC Hall,2025-12-27,Saturday,9,6,3,0.6
+USC Hall,2025-12-27,Saturday,10,6,2,0.4
+USC Hall,2025-12-27,Saturday,11,6,3,0.5
+USC Hall,2025-12-27,Saturday,12,6,3,0.5
+USC Hall,2025-12-27,Saturday,13,6,3,0.6
+USC Hall,2025-12-27,Saturday,14,6,4,0.7
+USC Hall,2025-12-27,Saturday,15,6,2,0.3
+USC Hall,2025-12-27,Saturday,16,6,3,0.5
+USC Hall,2025-12-27,Saturday,17,6,3,0.5
+USC Hall,2025-12-27,Saturday,18,6,5,0.9
+USC Hall,2025-12-27,Saturday,19,6,6,0.9
+USC Hall,2025-12-27,Saturday,20,6,4,0.7
+USC Hall,2025-12-27,Saturday,21,6,3,0.5
+USC Hall,2025-12-27,Saturday,22,6,4,0.6
+USC Hall,2025-12-28,Sunday,7,6,3,0.6
+USC Hall,2025-12-28,Sunday,8,6,3,0.5
+USC Hall,2025-12-28,Sunday,9,6,4,0.7
+USC Hall,2025-12-28,Sunday,10,6,3,0.6
+USC Hall,2025-12-28,Sunday,11,6,3,0.4
+USC Hall,2025-12-28,Sunday,12,6,2,0.3
+USC Hall,2025-12-28,Sunday,13,6,3,0.6
+USC Hall,2025-12-28,Sunday,14,6,3,0.5
+USC Hall,2025-12-28,Sunday,15,6,4,0.6
+USC Hall,2025-12-28,Sunday,16,6,4,0.6
+USC Hall,2025-12-28,Sunday,17,6,2,0.4
+USC Hall,2025-12-28,Sunday,18,6,6,1.0
+USC Hall,2025-12-28,Sunday,19,6,5,0.8
+USC Hall,2025-12-28,Sunday,20,6,6,1.0
+USC Hall,2025-12-28,Sunday,21,6,3,0.4
+USC Hall,2025-12-28,Sunday,22,6,3,0.5
+USC Hall,2025-12-29,Monday,7,6,1,0.1
+USC Hall,2025-12-29,Monday,8,6,3,0.5
+USC Hall,2025-12-29,Monday,9,6,1,0.2
+USC Hall,2025-12-29,Monday,10,6,3,0.4
+USC Hall,2025-12-29,Monday,11,6,2,0.3
+USC Hall,2025-12-29,Monday,12,6,2,0.3
+USC Hall,2025-12-29,Monday,13,6,3,0.5
+USC Hall,2025-12-29,Monday,14,6,3,0.4
+USC Hall,2025-12-29,Monday,15,6,2,0.4
+USC Hall,2025-12-29,Monday,16,6,2,0.4
+USC Hall,2025-12-29,Monday,17,6,3,0.5
+USC Hall,2025-12-29,Monday,18,6,5,0.8
+USC Hall,2025-12-29,Monday,19,6,5,0.8
+USC Hall,2025-12-29,Monday,20,6,5,0.9
+USC Hall,2025-12-29,Monday,21,6,1,0.1
+USC Hall,2025-12-29,Monday,22,6,2,0.3
+USC Hall,2025-12-30,Tuesday,7,6,3,0.4
+USC Hall,2025-12-30,Tuesday,8,6,2,0.3
+USC Hall,2025-12-30,Tuesday,9,6,1,0.1
+USC Hall,2025-12-30,Tuesday,10,6,1,0.2
+USC Hall,2025-12-30,Tuesday,11,6,1,0.2
+USC Hall,2025-12-30,Tuesday,12,6,3,0.5
+USC Hall,2025-12-30,Tuesday,13,6,1,0.2
+USC Hall,2025-12-30,Tuesday,14,6,2,0.3
+USC Hall,2025-12-30,Tuesday,15,6,1,0.2
+USC Hall,2025-12-30,Tuesday,16,6,2,0.3
+USC Hall,2025-12-30,Tuesday,17,6,3,0.4
+USC Hall,2025-12-30,Tuesday,18,6,4,0.7
+USC Hall,2025-12-30,Tuesday,19,6,3,0.5
+USC Hall,2025-12-30,Tuesday,20,6,3,0.6
+USC Hall,2025-12-30,Tuesday,21,6,1,0.2
+USC Hall,2025-12-30,Tuesday,22,6,3,0.4
+USC Hall,2025-12-31,Wednesday,7,6,1,0.2
+USC Hall,2025-12-31,Wednesday,8,6,3,0.5
+USC Hall,2025-12-31,Wednesday,9,6,2,0.3
+USC Hall,2025-12-31,Wednesday,10,6,1,0.2
+USC Hall,2025-12-31,Wednesday,11,6,2,0.3
+USC Hall,2025-12-31,Wednesday,12,6,3,0.4
+USC Hall,2025-12-31,Wednesday,13,6,1,0.2
+USC Hall,2025-12-31,Wednesday,14,6,1,0.2
+USC Hall,2025-12-31,Wednesday,15,6,1,0.2
+USC Hall,2025-12-31,Wednesday,16,6,1,0.1
+USC Hall,2025-12-31,Wednesday,17,6,1,0.2
+USC Hall,2025-12-31,Wednesday,18,6,5,0.8
+USC Hall,2025-12-31,Wednesday,19,6,4,0.7
+USC Hall,2025-12-31,Wednesday,20,6,5,0.9
+USC Hall,2025-12-31,Wednesday,21,6,2,0.3
+USC Hall,2025-12-31,Wednesday,22,6,3,0.5
+USC Hall,2026-01-01,Thursday,7,6,2,0.4
+USC Hall,2026-01-01,Thursday,8,6,2,0.4
+USC Hall,2026-01-01,Thursday,9,6,3,0.4
+USC Hall,2026-01-01,Thursday,10,6,2,0.4
+USC Hall,2026-01-01,Thursday,11,6,1,0.2
+USC Hall,2026-01-01,Thursday,12,6,1,0.1
+USC Hall,2026-01-01,Thursday,13,6,1,0.1
+USC Hall,2026-01-01,Thursday,14,6,2,0.3
+USC Hall,2026-01-01,Thursday,15,6,2,0.4
+USC Hall,2026-01-01,Thursday,16,6,2,0.4
+USC Hall,2026-01-01,Thursday,17,6,1,0.2
+USC Hall,2026-01-01,Thursday,18,6,4,0.7
+USC Hall,2026-01-01,Thursday,19,6,3,0.6
+USC Hall,2026-01-01,Thursday,20,6,5,0.8
+USC Hall,2026-01-01,Thursday,21,6,1,0.1
+USC Hall,2026-01-01,Thursday,22,6,3,0.5
+USC Hall,2026-01-02,Friday,7,6,2,0.4
+USC Hall,2026-01-02,Friday,8,6,3,0.5
+USC Hall,2026-01-02,Friday,9,6,3,0.4
+USC Hall,2026-01-02,Friday,10,6,1,0.2
+USC Hall,2026-01-02,Friday,11,6,3,0.4
+USC Hall,2026-01-02,Friday,12,6,2,0.3
+USC Hall,2026-01-02,Friday,13,6,3,0.5
+USC Hall,2026-01-02,Friday,14,6,2,0.4
+USC Hall,2026-01-02,Friday,15,6,2,0.4
+USC Hall,2026-01-02,Friday,16,6,1,0.2
+USC Hall,2026-01-02,Friday,17,6,3,0.4
+USC Hall,2026-01-02,Friday,18,6,4,0.7
+USC Hall,2026-01-02,Friday,19,6,5,0.9
+USC Hall,2026-01-02,Friday,20,6,3,0.5
+USC Hall,2026-01-02,Friday,21,6,1,0.2
+USC Hall,2026-01-02,Friday,22,6,1,0.2
+USC Hall,2026-01-03,Saturday,7,6,3,0.5
+USC Hall,2026-01-03,Saturday,8,6,4,0.7
+USC Hall,2026-01-03,Saturday,9,6,2,0.3
+USC Hall,2026-01-03,Saturday,10,6,4,0.7
+USC Hall,2026-01-03,Saturday,11,6,2,0.3
+USC Hall,2026-01-03,Saturday,12,6,3,0.5
+USC Hall,2026-01-03,Saturday,13,6,4,0.6
+USC Hall,2026-01-03,Saturday,14,6,2,0.4
+USC Hall,2026-01-03,Saturday,15,6,3,0.4
+USC Hall,2026-01-03,Saturday,16,6,4,0.6
+USC Hall,2026-01-03,Saturday,17,6,3,0.5
+USC Hall,2026-01-03,Saturday,18,6,5,0.8
+USC Hall,2026-01-03,Saturday,19,6,6,1.0
+USC Hall,2026-01-03,Saturday,20,6,4,0.7
+USC Hall,2026-01-03,Saturday,21,6,2,0.4
+USC Hall,2026-01-03,Saturday,22,6,4,0.7
+USC Hall,2026-01-04,Sunday,7,6,2,0.3
+USC Hall,2026-01-04,Sunday,8,6,3,0.4
+USC Hall,2026-01-04,Sunday,9,6,3,0.5
+USC Hall,2026-01-04,Sunday,10,6,3,0.5
+USC Hall,2026-01-04,Sunday,11,6,2,0.3
+USC Hall,2026-01-04,Sunday,12,6,4,0.7
+USC Hall,2026-01-04,Sunday,13,6,4,0.6
+USC Hall,2026-01-04,Sunday,14,6,2,0.3
+USC Hall,2026-01-04,Sunday,15,6,3,0.5
+USC Hall,2026-01-04,Sunday,16,6,3,0.5
+USC Hall,2026-01-04,Sunday,17,6,2,0.4
+USC Hall,2026-01-04,Sunday,18,6,5,0.8
+USC Hall,2026-01-04,Sunday,19,6,5,0.8
+USC Hall,2026-01-04,Sunday,20,6,6,0.9
+USC Hall,2026-01-04,Sunday,21,6,4,0.7
+USC Hall,2026-01-04,Sunday,22,6,4,0.7
+USC Hall,2026-01-05,Monday,7,6,1,0.2
+USC Hall,2026-01-05,Monday,8,6,1,0.2
+USC Hall,2026-01-05,Monday,9,6,3,0.4
+USC Hall,2026-01-05,Monday,10,6,1,0.2
+USC Hall,2026-01-05,Monday,11,6,2,0.3
+USC Hall,2026-01-05,Monday,12,6,1,0.2
+USC Hall,2026-01-05,Monday,13,6,1,0.2
+USC Hall,2026-01-05,Monday,14,6,3,0.5
+USC Hall,2026-01-05,Monday,15,6,2,0.3
+USC Hall,2026-01-05,Monday,16,6,1,0.1
+USC Hall,2026-01-05,Monday,17,6,1,0.2
+USC Hall,2026-01-05,Monday,18,6,4,0.7
+USC Hall,2026-01-05,Monday,19,6,3,0.6
+USC Hall,2026-01-05,Monday,20,6,5,0.8
+USC Hall,2026-01-05,Monday,21,6,2,0.3
+USC Hall,2026-01-05,Monday,22,6,2,0.4
+USC Hall,2026-01-06,Tuesday,7,6,1,0.1
+USC Hall,2026-01-06,Tuesday,8,6,2,0.3
+USC Hall,2026-01-06,Tuesday,9,6,1,0.1
+USC Hall,2026-01-06,Tuesday,10,6,3,0.5
+USC Hall,2026-01-06,Tuesday,11,6,3,0.5
+USC Hall,2026-01-06,Tuesday,12,6,1,0.1
+USC Hall,2026-01-06,Tuesday,13,6,1,0.2
+USC Hall,2026-01-06,Tuesday,14,6,2,0.4
+USC Hall,2026-01-06,Tuesday,15,6,1,0.2
+USC Hall,2026-01-06,Tuesday,16,6,1,0.2
+USC Hall,2026-01-06,Tuesday,17,6,2,0.3
+USC Hall,2026-01-06,Tuesday,18,6,4,0.7
+USC Hall,2026-01-06,Tuesday,19,6,4,0.7
+USC Hall,2026-01-06,Tuesday,20,6,4,0.7
+USC Hall,2026-01-06,Tuesday,21,6,1,0.2
+USC Hall,2026-01-06,Tuesday,22,6,2,0.3
+USC Hall,2026-01-07,Wednesday,7,6,1,0.1
+USC Hall,2026-01-07,Wednesday,8,6,2,0.3
+USC Hall,2026-01-07,Wednesday,9,6,1,0.2
+USC Hall,2026-01-07,Wednesday,10,6,1,0.2
+USC Hall,2026-01-07,Wednesday,11,6,3,0.4
+USC Hall,2026-01-07,Wednesday,12,6,1,0.2
+USC Hall,2026-01-07,Wednesday,13,6,2,0.3
+USC Hall,2026-01-07,Wednesday,14,6,1,0.2
+USC Hall,2026-01-07,Wednesday,15,6,2,0.4
+USC Hall,2026-01-07,Wednesday,16,6,1,0.2
+USC Hall,2026-01-07,Wednesday,17,6,2,0.3
+USC Hall,2026-01-07,Wednesday,18,6,5,0.9
+USC Hall,2026-01-07,Wednesday,19,6,5,0.8
+USC Hall,2026-01-07,Wednesday,20,6,3,0.5
+USC Hall,2026-01-07,Wednesday,21,6,2,0.3
+USC Hall,2026-01-07,Wednesday,22,6,1,0.1
+USC Hall,2026-01-08,Thursday,7,6,2,0.4
+USC Hall,2026-01-08,Thursday,8,6,1,0.1
+USC Hall,2026-01-08,Thursday,9,6,3,0.4
+USC Hall,2026-01-08,Thursday,10,6,2,0.3
+USC Hall,2026-01-08,Thursday,11,6,2,0.3
+USC Hall,2026-01-08,Thursday,12,6,2,0.4
+USC Hall,2026-01-08,Thursday,13,6,3,0.5
+USC Hall,2026-01-08,Thursday,14,6,2,0.3
+USC Hall,2026-01-08,Thursday,15,6,2,0.3
+USC Hall,2026-01-08,Thursday,16,6,1,0.2
+USC Hall,2026-01-08,Thursday,17,6,3,0.5
+USC Hall,2026-01-08,Thursday,18,6,5,0.9
+USC Hall,2026-01-08,Thursday,19,6,4,0.6
+USC Hall,2026-01-08,Thursday,20,6,4,0.7
+USC Hall,2026-01-08,Thursday,21,6,1,0.1
+USC Hall,2026-01-08,Thursday,22,6,2,0.4
+USC Hall,2026-01-09,Friday,7,6,2,0.3
+USC Hall,2026-01-09,Friday,8,6,2,0.4
+USC Hall,2026-01-09,Friday,9,6,1,0.2
+USC Hall,2026-01-09,Friday,10,6,2,0.3
+USC Hall,2026-01-09,Friday,11,6,1,0.1
+USC Hall,2026-01-09,Friday,12,6,2,0.4
+USC Hall,2026-01-09,Friday,13,6,2,0.3
+USC Hall,2026-01-09,Friday,14,6,1,0.2
+USC Hall,2026-01-09,Friday,15,6,2,0.4
+USC Hall,2026-01-09,Friday,16,6,3,0.4
+USC Hall,2026-01-09,Friday,17,6,1,0.2
+USC Hall,2026-01-09,Friday,18,6,4,0.7
+USC Hall,2026-01-09,Friday,19,6,3,0.6
+USC Hall,2026-01-09,Friday,20,6,4,0.7
+USC Hall,2026-01-09,Friday,21,6,2,0.3
+USC Hall,2026-01-09,Friday,22,6,3,0.5
+USC Hall,2026-01-10,Saturday,7,6,4,0.6
+USC Hall,2026-01-10,Saturday,8,6,3,0.6
+USC Hall,2026-01-10,Saturday,9,6,3,0.5
+USC Hall,2026-01-10,Saturday,10,6,2,0.4
+USC Hall,2026-01-10,Saturday,11,6,4,0.6
+USC Hall,2026-01-10,Saturday,12,6,3,0.5
+USC Hall,2026-01-10,Saturday,13,6,4,0.6
+USC Hall,2026-01-10,Saturday,14,6,2,0.4
+USC Hall,2026-01-10,Saturday,15,6,4,0.6
+USC Hall,2026-01-10,Saturday,16,6,4,0.6
+USC Hall,2026-01-10,Saturday,17,6,3,0.5
+USC Hall,2026-01-10,Saturday,18,6,5,0.9
+USC Hall,2026-01-10,Saturday,19,6,6,1.0
+USC Hall,2026-01-10,Saturday,20,6,5,0.8
+USC Hall,2026-01-10,Saturday,21,6,3,0.5
+USC Hall,2026-01-10,Saturday,22,6,2,0.4
+USC Hall,2026-01-11,Sunday,7,6,2,0.3
+USC Hall,2026-01-11,Sunday,8,6,4,0.6
+USC Hall,2026-01-11,Sunday,9,6,2,0.3
+USC Hall,2026-01-11,Sunday,10,6,2,0.4
+USC Hall,2026-01-11,Sunday,11,6,2,0.3
+USC Hall,2026-01-11,Sunday,12,6,2,0.3
+USC Hall,2026-01-11,Sunday,13,6,2,0.4
+USC Hall,2026-01-11,Sunday,14,6,2,0.3
+USC Hall,2026-01-11,Sunday,15,6,3,0.6
+USC Hall,2026-01-11,Sunday,16,6,3,0.5
+USC Hall,2026-01-11,Sunday,17,6,2,0.4
+USC Hall,2026-01-11,Sunday,18,6,5,0.9
+USC Hall,2026-01-11,Sunday,19,6,6,1.0
+USC Hall,2026-01-11,Sunday,20,6,6,1.0
+USC Hall,2026-01-11,Sunday,21,6,4,0.7
+USC Hall,2026-01-11,Sunday,22,6,4,0.6
+USC Hall,2026-01-12,Monday,7,6,2,0.4
+USC Hall,2026-01-12,Monday,8,6,1,0.1
+USC Hall,2026-01-12,Monday,9,6,2,0.3
+USC Hall,2026-01-12,Monday,10,6,2,0.4
+USC Hall,2026-01-12,Monday,11,6,1,0.2
+USC Hall,2026-01-12,Monday,12,6,3,0.4
+USC Hall,2026-01-12,Monday,13,6,1,0.1
+USC Hall,2026-01-12,Monday,14,6,2,0.4
+USC Hall,2026-01-12,Monday,15,6,1,0.1
+USC Hall,2026-01-12,Monday,16,6,3,0.5
+USC Hall,2026-01-12,Monday,17,6,3,0.5
+USC Hall,2026-01-12,Monday,18,6,3,0.5
+USC Hall,2026-01-12,Monday,19,6,4,0.6
+USC Hall,2026-01-12,Monday,20,6,4,0.6
+USC Hall,2026-01-12,Monday,21,6,2,0.4
+USC Hall,2026-01-12,Monday,22,6,1,0.2
+USC Hall,2026-01-13,Tuesday,7,6,1,0.2
+USC Hall,2026-01-13,Tuesday,8,6,2,0.3
+USC Hall,2026-01-13,Tuesday,9,6,3,0.4
+USC Hall,2026-01-13,Tuesday,10,6,1,0.1
+USC Hall,2026-01-13,Tuesday,11,6,2,0.4
+USC Hall,2026-01-13,Tuesday,12,6,1,0.1
+USC Hall,2026-01-13,Tuesday,13,6,2,0.3
+USC Hall,2026-01-13,Tuesday,14,6,2,0.3
+USC Hall,2026-01-13,Tuesday,15,6,2,0.3
+USC Hall,2026-01-13,Tuesday,16,6,3,0.5
+USC Hall,2026-01-13,Tuesday,17,6,2,0.4
+USC Hall,2026-01-13,Tuesday,18,6,5,0.8
+USC Hall,2026-01-13,Tuesday,19,6,4,0.6
+USC Hall,2026-01-13,Tuesday,20,6,4,0.6
+USC Hall,2026-01-13,Tuesday,21,6,2,0.4
+USC Hall,2026-01-13,Tuesday,22,6,1,0.2
+USC Hall,2026-01-14,Wednesday,7,6,3,0.5
+USC Hall,2026-01-14,Wednesday,8,6,3,0.5
+USC Hall,2026-01-14,Wednesday,9,6,2,0.3
+USC Hall,2026-01-14,Wednesday,10,6,1,0.1
+USC Hall,2026-01-14,Wednesday,11,6,1,0.1
+USC Hall,2026-01-14,Wednesday,12,6,1,0.1
+USC Hall,2026-01-14,Wednesday,13,6,2,0.3
+USC Hall,2026-01-14,Wednesday,14,6,2,0.3
+USC Hall,2026-01-14,Wednesday,15,6,3,0.5
+USC Hall,2026-01-14,Wednesday,16,6,1,0.2
+USC Hall,2026-01-14,Wednesday,17,6,2,0.3
+USC Hall,2026-01-14,Wednesday,18,6,3,0.5
+USC Hall,2026-01-14,Wednesday,19,6,3,0.6
+USC Hall,2026-01-14,Wednesday,20,6,4,0.6
+USC Hall,2026-01-14,Wednesday,21,6,2,0.4
+USC Hall,2026-01-14,Wednesday,22,6,2,0.4
+USC Hall,2026-01-15,Thursday,7,6,3,0.4
+USC Hall,2026-01-15,Thursday,8,6,2,0.4
+USC Hall,2026-01-15,Thursday,9,6,3,0.4
+USC Hall,2026-01-15,Thursday,10,6,2,0.3
+USC Hall,2026-01-15,Thursday,11,6,1,0.2
+USC Hall,2026-01-15,Thursday,12,6,2,0.3
+USC Hall,2026-01-15,Thursday,13,6,2,0.3
+USC Hall,2026-01-15,Thursday,14,6,3,0.4
+USC Hall,2026-01-15,Thursday,15,6,3,0.5
+USC Hall,2026-01-15,Thursday,16,6,2,0.3
+USC Hall,2026-01-15,Thursday,17,6,2,0.3
+USC Hall,2026-01-15,Thursday,18,6,4,0.7
+USC Hall,2026-01-15,Thursday,19,6,5,0.8
+USC Hall,2026-01-15,Thursday,20,6,5,0.8
+USC Hall,2026-01-15,Thursday,21,6,1,0.2
+USC Hall,2026-01-15,Thursday,22,6,1,0.2
+USC Hall,2026-01-16,Friday,7,6,1,0.2
+USC Hall,2026-01-16,Friday,8,6,2,0.4
+USC Hall,2026-01-16,Friday,9,6,3,0.5
+USC Hall,2026-01-16,Friday,10,6,2,0.3
+USC Hall,2026-01-16,Friday,11,6,3,0.5
+USC Hall,2026-01-16,Friday,12,6,2,0.4
+USC Hall,2026-01-16,Friday,13,6,1,0.2
+USC Hall,2026-01-16,Friday,14,6,3,0.5
+USC Hall,2026-01-16,Friday,15,6,2,0.4
+USC Hall,2026-01-16,Friday,16,6,1,0.2
+USC Hall,2026-01-16,Friday,17,6,1,0.2
+USC Hall,2026-01-16,Friday,18,6,3,0.5
+USC Hall,2026-01-16,Friday,19,6,3,0.6
+USC Hall,2026-01-16,Friday,20,6,5,0.8
+USC Hall,2026-01-16,Friday,21,6,2,0.3
+USC Hall,2026-01-16,Friday,22,6,3,0.5
+USC Hall,2026-01-17,Saturday,7,6,2,0.4
+USC Hall,2026-01-17,Saturday,8,6,2,0.3
+USC Hall,2026-01-17,Saturday,9,6,3,0.4
+USC Hall,2026-01-17,Saturday,10,6,3,0.4
+USC Hall,2026-01-17,Saturday,11,6,3,0.5
+USC Hall,2026-01-17,Saturday,12,6,4,0.6
+USC Hall,2026-01-17,Saturday,13,6,3,0.6
+USC Hall,2026-01-17,Saturday,14,6,4,0.6
+USC Hall,2026-01-17,Saturday,15,6,4,0.6
+USC Hall,2026-01-17,Saturday,16,6,3,0.6
+USC Hall,2026-01-17,Saturday,17,6,2,0.3
+USC Hall,2026-01-17,Saturday,18,6,5,0.8
+USC Hall,2026-01-17,Saturday,19,6,6,1.0
+USC Hall,2026-01-17,Saturday,20,6,6,1.0
+USC Hall,2026-01-17,Saturday,21,6,3,0.5
+USC Hall,2026-01-17,Saturday,22,6,3,0.6
+USC Hall,2026-01-18,Sunday,7,6,3,0.5
+USC Hall,2026-01-18,Sunday,8,6,3,0.6
+USC Hall,2026-01-18,Sunday,9,6,4,0.7
+USC Hall,2026-01-18,Sunday,10,6,2,0.4
+USC Hall,2026-01-18,Sunday,11,6,2,0.4
+USC Hall,2026-01-18,Sunday,12,6,3,0.6
+USC Hall,2026-01-18,Sunday,13,6,2,0.4
+USC Hall,2026-01-18,Sunday,14,6,4,0.6
+USC Hall,2026-01-18,Sunday,15,6,3,0.5
+USC Hall,2026-01-18,Sunday,16,6,4,0.6
+USC Hall,2026-01-18,Sunday,17,6,2,0.4
+USC Hall,2026-01-18,Sunday,18,6,4,0.7
+USC Hall,2026-01-18,Sunday,19,6,5,0.9
+USC Hall,2026-01-18,Sunday,20,6,5,0.8
+USC Hall,2026-01-18,Sunday,21,6,2,0.4
+USC Hall,2026-01-18,Sunday,22,6,2,0.4
+USC Hall,2026-01-19,Monday,7,6,1,0.2
+USC Hall,2026-01-19,Monday,8,6,1,0.1
+USC Hall,2026-01-19,Monday,9,6,1,0.1
+USC Hall,2026-01-19,Monday,10,6,2,0.4
+USC Hall,2026-01-19,Monday,11,6,2,0.4
+USC Hall,2026-01-19,Monday,12,6,2,0.4
+USC Hall,2026-01-19,Monday,13,6,1,0.1
+USC Hall,2026-01-19,Monday,14,6,3,0.4
+USC Hall,2026-01-19,Monday,15,6,1,0.2
+USC Hall,2026-01-19,Monday,16,6,3,0.4
+USC Hall,2026-01-19,Monday,17,6,2,0.4
+USC Hall,2026-01-19,Monday,18,6,3,0.6
+USC Hall,2026-01-19,Monday,19,6,5,0.8
+USC Hall,2026-01-19,Monday,20,6,4,0.7
+USC Hall,2026-01-19,Monday,21,6,1,0.2
+USC Hall,2026-01-19,Monday,22,6,1,0.1
+USC Hall,2026-01-20,Tuesday,7,6,3,0.4
+USC Hall,2026-01-20,Tuesday,8,6,1,0.1
+USC Hall,2026-01-20,Tuesday,9,6,3,0.5
+USC Hall,2026-01-20,Tuesday,10,6,1,0.2
+USC Hall,2026-01-20,Tuesday,11,6,1,0.1
+USC Hall,2026-01-20,Tuesday,12,6,3,0.5
+USC Hall,2026-01-20,Tuesday,13,6,1,0.2
+USC Hall,2026-01-20,Tuesday,14,6,3,0.4
+USC Hall,2026-01-20,Tuesday,15,6,3,0.4
+USC Hall,2026-01-20,Tuesday,16,6,1,0.1
+USC Hall,2026-01-20,Tuesday,17,6,1,0.2
+USC Hall,2026-01-20,Tuesday,18,6,5,0.9
+USC Hall,2026-01-20,Tuesday,19,6,5,0.9
+USC Hall,2026-01-20,Tuesday,20,6,4,0.7
+USC Hall,2026-01-20,Tuesday,21,6,1,0.2
+USC Hall,2026-01-20,Tuesday,22,6,1,0.2
+USC Hall,2026-01-21,Wednesday,7,6,2,0.3
+USC Hall,2026-01-21,Wednesday,8,6,2,0.3
+USC Hall,2026-01-21,Wednesday,9,6,3,0.5
+USC Hall,2026-01-21,Wednesday,10,6,1,0.1
+USC Hall,2026-01-21,Wednesday,11,6,3,0.5
+USC Hall,2026-01-21,Wednesday,12,6,2,0.3
+USC Hall,2026-01-21,Wednesday,13,6,2,0.4
+USC Hall,2026-01-21,Wednesday,14,6,3,0.5
+USC Hall,2026-01-21,Wednesday,15,6,2,0.3
+USC Hall,2026-01-21,Wednesday,16,6,3,0.5
+USC Hall,2026-01-21,Wednesday,17,6,2,0.3
+USC Hall,2026-01-21,Wednesday,18,6,3,0.5
+USC Hall,2026-01-21,Wednesday,19,6,4,0.6
+USC Hall,2026-01-21,Wednesday,20,6,3,0.6
+USC Hall,2026-01-21,Wednesday,21,6,1,0.2
+USC Hall,2026-01-21,Wednesday,22,6,1,0.2
+USC Hall,2026-01-22,Thursday,7,6,1,0.2
+USC Hall,2026-01-22,Thursday,8,6,2,0.3
+USC Hall,2026-01-22,Thursday,9,6,2,0.4
+USC Hall,2026-01-22,Thursday,10,6,2,0.4
+USC Hall,2026-01-22,Thursday,11,6,2,0.3
+USC Hall,2026-01-22,Thursday,12,6,2,0.3
+USC Hall,2026-01-22,Thursday,13,6,1,0.2
+USC Hall,2026-01-22,Thursday,14,6,3,0.5
+USC Hall,2026-01-22,Thursday,15,6,1,0.2
+USC Hall,2026-01-22,Thursday,16,6,1,0.1
+USC Hall,2026-01-22,Thursday,17,6,2,0.3
+USC Hall,2026-01-22,Thursday,18,6,4,0.6
+USC Hall,2026-01-22,Thursday,19,6,3,0.5
+USC Hall,2026-01-22,Thursday,20,6,4,0.6
+USC Hall,2026-01-22,Thursday,21,6,1,0.1
+USC Hall,2026-01-22,Thursday,22,6,1,0.2
+USC Hall,2026-01-23,Friday,7,6,3,0.4
+USC Hall,2026-01-23,Friday,8,6,2,0.3
+USC Hall,2026-01-23,Friday,9,6,1,0.2
+USC Hall,2026-01-23,Friday,10,6,1,0.2
+USC Hall,2026-01-23,Friday,11,6,2,0.4
+USC Hall,2026-01-23,Friday,12,6,2,0.3
+USC Hall,2026-01-23,Friday,13,6,1,0.2
+USC Hall,2026-01-23,Friday,14,6,2,0.3
+USC Hall,2026-01-23,Friday,15,6,2,0.3
+USC Hall,2026-01-23,Friday,16,6,1,0.2
+USC Hall,2026-01-23,Friday,17,6,3,0.5
+USC Hall,2026-01-23,Friday,18,6,3,0.6
+USC Hall,2026-01-23,Friday,19,6,5,0.8
+USC Hall,2026-01-23,Friday,20,6,4,0.6
+USC Hall,2026-01-23,Friday,21,6,2,0.3
+USC Hall,2026-01-23,Friday,22,6,2,0.3
+MPSH 1,2025-12-25,Thursday,7,4,1,0.3
+MPSH 1,2025-12-25,Thursday,8,4,1,0.3
+MPSH 1,2025-12-25,Thursday,9,4,2,0.5
+MPSH 1,2025-12-25,Thursday,10,4,1,0.3
+MPSH 1,2025-12-25,Thursday,11,4,2,0.5
+MPSH 1,2025-12-25,Thursday,12,4,1,0.1
+MPSH 1,2025-12-25,Thursday,13,4,1,0.2
+MPSH 1,2025-12-25,Thursday,14,4,2,0.4
+MPSH 1,2025-12-25,Thursday,15,4,1,0.3
+MPSH 1,2025-12-25,Thursday,16,4,1,0.1
+MPSH 1,2025-12-25,Thursday,17,4,1,0.1
+MPSH 1,2025-12-25,Thursday,18,4,2,0.6
+MPSH 1,2025-12-25,Thursday,19,4,3,0.8
+MPSH 1,2025-12-25,Thursday,20,4,3,0.7
+MPSH 1,2025-12-25,Thursday,21,4,1,0.1
+MPSH 1,2025-12-25,Thursday,22,4,1,0.3
+MPSH 1,2025-12-26,Friday,7,4,2,0.4
+MPSH 1,2025-12-26,Friday,8,4,2,0.5
+MPSH 1,2025-12-26,Friday,9,4,2,0.4
+MPSH 1,2025-12-26,Friday,10,4,2,0.5
+MPSH 1,2025-12-26,Friday,11,4,1,0.3
+MPSH 1,2025-12-26,Friday,12,4,1,0.2
+MPSH 1,2025-12-26,Friday,13,4,2,0.5
+MPSH 1,2025-12-26,Friday,14,4,0,0.1
+MPSH 1,2025-12-26,Friday,15,4,0,0.1
+MPSH 1,2025-12-26,Friday,16,4,2,0.5
+MPSH 1,2025-12-26,Friday,17,4,2,0.4
+MPSH 1,2025-12-26,Friday,18,4,3,0.8
+MPSH 1,2025-12-26,Friday,19,4,3,0.7
+MPSH 1,2025-12-26,Friday,20,4,3,0.8
+MPSH 1,2025-12-26,Friday,21,4,1,0.2
+MPSH 1,2025-12-26,Friday,22,4,2,0.4
+MPSH 1,2025-12-27,Saturday,7,4,2,0.6
+MPSH 1,2025-12-27,Saturday,8,4,2,0.5
+MPSH 1,2025-12-27,Saturday,9,4,1,0.3
+MPSH 1,2025-12-27,Saturday,10,4,2,0.4
+MPSH 1,2025-12-27,Saturday,11,4,2,0.4
+MPSH 1,2025-12-27,Saturday,12,4,2,0.5
+MPSH 1,2025-12-27,Saturday,13,4,1,0.4
+MPSH 1,2025-12-27,Saturday,14,4,3,0.7
+MPSH 1,2025-12-27,Saturday,15,4,2,0.4
+MPSH 1,2025-12-27,Saturday,16,4,2,0.4
+MPSH 1,2025-12-27,Saturday,17,4,3,0.6
+MPSH 1,2025-12-27,Saturday,18,4,3,0.8
+MPSH 1,2025-12-27,Saturday,19,4,3,0.7
+MPSH 1,2025-12-27,Saturday,20,4,4,1.0
+MPSH 1,2025-12-27,Saturday,21,4,1,0.3
+MPSH 1,2025-12-27,Saturday,22,4,1,0.4
+MPSH 1,2025-12-28,Sunday,7,4,1,0.3
+MPSH 1,2025-12-28,Sunday,8,4,1,0.4
+MPSH 1,2025-12-28,Sunday,9,4,1,0.3
+MPSH 1,2025-12-28,Sunday,10,4,3,0.6
+MPSH 1,2025-12-28,Sunday,11,4,1,0.3
+MPSH 1,2025-12-28,Sunday,12,4,2,0.4
+MPSH 1,2025-12-28,Sunday,13,4,2,0.4
+MPSH 1,2025-12-28,Sunday,14,4,1,0.3
+MPSH 1,2025-12-28,Sunday,15,4,1,0.3
+MPSH 1,2025-12-28,Sunday,16,4,1,0.3
+MPSH 1,2025-12-28,Sunday,17,4,2,0.4
+MPSH 1,2025-12-28,Sunday,18,4,4,1.0
+MPSH 1,2025-12-28,Sunday,19,4,4,0.9
+MPSH 1,2025-12-28,Sunday,20,4,4,1.0
+MPSH 1,2025-12-28,Sunday,21,4,1,0.4
+MPSH 1,2025-12-28,Sunday,22,4,3,0.7
+MPSH 1,2025-12-29,Monday,7,4,1,0.3
+MPSH 1,2025-12-29,Monday,8,4,1,0.3
+MPSH 1,2025-12-29,Monday,9,4,0,0.1
+MPSH 1,2025-12-29,Monday,10,4,1,0.2
+MPSH 1,2025-12-29,Monday,11,4,1,0.3
+MPSH 1,2025-12-29,Monday,12,4,1,0.3
+MPSH 1,2025-12-29,Monday,13,4,1,0.2
+MPSH 1,2025-12-29,Monday,14,4,1,0.3
+MPSH 1,2025-12-29,Monday,15,4,1,0.3
+MPSH 1,2025-12-29,Monday,16,4,2,0.5
+MPSH 1,2025-12-29,Monday,17,4,1,0.3
+MPSH 1,2025-12-29,Monday,18,4,3,0.6
+MPSH 1,2025-12-29,Monday,19,4,2,0.6
+MPSH 1,2025-12-29,Monday,20,4,3,0.7
+MPSH 1,2025-12-29,Monday,21,4,1,0.2
+MPSH 1,2025-12-29,Monday,22,4,1,0.3
+MPSH 1,2025-12-30,Tuesday,7,4,1,0.3
+MPSH 1,2025-12-30,Tuesday,8,4,2,0.4
+MPSH 1,2025-12-30,Tuesday,9,4,1,0.3
+MPSH 1,2025-12-30,Tuesday,10,4,1,0.2
+MPSH 1,2025-12-30,Tuesday,11,4,2,0.5
+MPSH 1,2025-12-30,Tuesday,12,4,1,0.3
+MPSH 1,2025-12-30,Tuesday,13,4,1,0.3
+MPSH 1,2025-12-30,Tuesday,14,4,1,0.2
+MPSH 1,2025-12-30,Tuesday,15,4,2,0.5
+MPSH 1,2025-12-30,Tuesday,16,4,1,0.2
+MPSH 1,2025-12-30,Tuesday,17,4,1,0.2
+MPSH 1,2025-12-30,Tuesday,18,4,2,0.6
+MPSH 1,2025-12-30,Tuesday,19,4,3,0.8
+MPSH 1,2025-12-30,Tuesday,20,4,3,0.8
+MPSH 1,2025-12-30,Tuesday,21,4,1,0.2
+MPSH 1,2025-12-30,Tuesday,22,4,2,0.4
+MPSH 1,2025-12-31,Wednesday,7,4,1,0.2
+MPSH 1,2025-12-31,Wednesday,8,4,1,0.4
+MPSH 1,2025-12-31,Wednesday,9,4,1,0.2
+MPSH 1,2025-12-31,Wednesday,10,4,2,0.4
+MPSH 1,2025-12-31,Wednesday,11,4,1,0.4
+MPSH 1,2025-12-31,Wednesday,12,4,1,0.3
+MPSH 1,2025-12-31,Wednesday,13,4,1,0.3
+MPSH 1,2025-12-31,Wednesday,14,4,1,0.4
+MPSH 1,2025-12-31,Wednesday,15,4,1,0.2
+MPSH 1,2025-12-31,Wednesday,16,4,1,0.2
+MPSH 1,2025-12-31,Wednesday,17,4,1,0.4
+MPSH 1,2025-12-31,Wednesday,18,4,2,0.5
+MPSH 1,2025-12-31,Wednesday,19,4,3,0.8
+MPSH 1,2025-12-31,Wednesday,20,4,3,0.7
+MPSH 1,2025-12-31,Wednesday,21,4,1,0.3
+MPSH 1,2025-12-31,Wednesday,22,4,1,0.2
+MPSH 1,2026-01-01,Thursday,7,4,1,0.3
+MPSH 1,2026-01-01,Thursday,8,4,1,0.1
+MPSH 1,2026-01-01,Thursday,9,4,2,0.4
+MPSH 1,2026-01-01,Thursday,10,4,1,0.2
+MPSH 1,2026-01-01,Thursday,11,4,1,0.2
+MPSH 1,2026-01-01,Thursday,12,4,1,0.2
+MPSH 1,2026-01-01,Thursday,13,4,2,0.4
+MPSH 1,2026-01-01,Thursday,14,4,1,0.3
+MPSH 1,2026-01-01,Thursday,15,4,1,0.3
+MPSH 1,2026-01-01,Thursday,16,4,1,0.2
+MPSH 1,2026-01-01,Thursday,17,4,0,0.1
+MPSH 1,2026-01-01,Thursday,18,4,3,0.8
+MPSH 1,2026-01-01,Thursday,19,4,3,0.7
+MPSH 1,2026-01-01,Thursday,20,4,2,0.5
+MPSH 1,2026-01-01,Thursday,21,4,1,0.4
+MPSH 1,2026-01-01,Thursday,22,4,1,0.2
+MPSH 1,2026-01-02,Friday,7,4,2,0.5
+MPSH 1,2026-01-02,Friday,8,4,1,0.3
+MPSH 1,2026-01-02,Friday,9,4,1,0.2
+MPSH 1,2026-01-02,Friday,10,4,2,0.4
+MPSH 1,2026-01-02,Friday,11,4,1,0.3
+MPSH 1,2026-01-02,Friday,12,4,2,0.4
+MPSH 1,2026-01-02,Friday,13,4,1,0.3
+MPSH 1,2026-01-02,Friday,14,4,2,0.5
+MPSH 1,2026-01-02,Friday,15,4,1,0.3
+MPSH 1,2026-01-02,Friday,16,4,2,0.4
+MPSH 1,2026-01-02,Friday,17,4,1,0.3
+MPSH 1,2026-01-02,Friday,18,4,3,0.8
+MPSH 1,2026-01-02,Friday,19,4,3,0.7
+MPSH 1,2026-01-02,Friday,20,4,4,0.9
+MPSH 1,2026-01-02,Friday,21,4,2,0.4
+MPSH 1,2026-01-02,Friday,22,4,1,0.4
+MPSH 1,2026-01-03,Saturday,7,4,2,0.4
+MPSH 1,2026-01-03,Saturday,8,4,3,0.7
+MPSH 1,2026-01-03,Saturday,9,4,2,0.5
+MPSH 1,2026-01-03,Saturday,10,4,2,0.6
+MPSH 1,2026-01-03,Saturday,11,4,2,0.5
+MPSH 1,2026-01-03,Saturday,12,4,2,0.5
+MPSH 1,2026-01-03,Saturday,13,4,1,0.3
+MPSH 1,2026-01-03,Saturday,14,4,2,0.5
+MPSH 1,2026-01-03,Saturday,15,4,3,0.7
+MPSH 1,2026-01-03,Saturday,16,4,1,0.3
+MPSH 1,2026-01-03,Saturday,17,4,1,0.3
+MPSH 1,2026-01-03,Saturday,18,4,4,1.0
+MPSH 1,2026-01-03,Saturday,19,4,4,1.0
+MPSH 1,2026-01-03,Saturday,20,4,4,0.9
+MPSH 1,2026-01-03,Saturday,21,4,2,0.5
+MPSH 1,2026-01-03,Saturday,22,4,2,0.4
+MPSH 1,2026-01-04,Sunday,7,4,1,0.3
+MPSH 1,2026-01-04,Sunday,8,4,2,0.5
+MPSH 1,2026-01-04,Sunday,9,4,3,0.7
+MPSH 1,2026-01-04,Sunday,10,4,3,0.6
+MPSH 1,2026-01-04,Sunday,11,4,2,0.4
+MPSH 1,2026-01-04,Sunday,12,4,2,0.6
+MPSH 1,2026-01-04,Sunday,13,4,1,0.3
+MPSH 1,2026-01-04,Sunday,14,4,3,0.6
+MPSH 1,2026-01-04,Sunday,15,4,2,0.4
+MPSH 1,2026-01-04,Sunday,16,4,2,0.4
+MPSH 1,2026-01-04,Sunday,17,4,3,0.7
+MPSH 1,2026-01-04,Sunday,18,4,3,0.7
+MPSH 1,2026-01-04,Sunday,19,4,4,1.0
+MPSH 1,2026-01-04,Sunday,20,4,3,0.7
+MPSH 1,2026-01-04,Sunday,21,4,2,0.5
+MPSH 1,2026-01-04,Sunday,22,4,2,0.5
+MPSH 1,2026-01-05,Monday,7,4,2,0.5
+MPSH 1,2026-01-05,Monday,8,4,2,0.4
+MPSH 1,2026-01-05,Monday,9,4,1,0.3
+MPSH 1,2026-01-05,Monday,10,4,1,0.2
+MPSH 1,2026-01-05,Monday,11,4,2,0.4
+MPSH 1,2026-01-05,Monday,12,4,1,0.1
+MPSH 1,2026-01-05,Monday,13,4,0,0.1
+MPSH 1,2026-01-05,Monday,14,4,1,0.4
+MPSH 1,2026-01-05,Monday,15,4,2,0.5
+MPSH 1,2026-01-05,Monday,16,4,2,0.4
+MPSH 1,2026-01-05,Monday,17,4,2,0.5
+MPSH 1,2026-01-05,Monday,18,4,3,0.7
+MPSH 1,2026-01-05,Monday,19,4,3,0.7
+MPSH 1,2026-01-05,Monday,20,4,3,0.7
+MPSH 1,2026-01-05,Monday,21,4,1,0.3
+MPSH 1,2026-01-05,Monday,22,4,2,0.4
+MPSH 1,2026-01-06,Tuesday,7,4,1,0.3
+MPSH 1,2026-01-06,Tuesday,8,4,1,0.3
+MPSH 1,2026-01-06,Tuesday,9,4,2,0.4
+MPSH 1,2026-01-06,Tuesday,10,4,2,0.5
+MPSH 1,2026-01-06,Tuesday,11,4,1,0.2
+MPSH 1,2026-01-06,Tuesday,12,4,1,0.3
+MPSH 1,2026-01-06,Tuesday,13,4,1,0.3
+MPSH 1,2026-01-06,Tuesday,14,4,2,0.5
+MPSH 1,2026-01-06,Tuesday,15,4,0,0.1
+MPSH 1,2026-01-06,Tuesday,16,4,1,0.3
+MPSH 1,2026-01-06,Tuesday,17,4,0,0.1
+MPSH 1,2026-01-06,Tuesday,18,4,4,0.9
+MPSH 1,2026-01-06,Tuesday,19,4,2,0.5
+MPSH 1,2026-01-06,Tuesday,20,4,3,0.6
+MPSH 1,2026-01-06,Tuesday,21,4,1,0.2
+MPSH 1,2026-01-06,Tuesday,22,4,2,0.5
+MPSH 1,2026-01-07,Wednesday,7,4,0,0.1
+MPSH 1,2026-01-07,Wednesday,8,4,0,0.1
+MPSH 1,2026-01-07,Wednesday,9,4,2,0.4
+MPSH 1,2026-01-07,Wednesday,10,4,2,0.4
+MPSH 1,2026-01-07,Wednesday,11,4,1,0.2
+MPSH 1,2026-01-07,Wednesday,12,4,1,0.3
+MPSH 1,2026-01-07,Wednesday,13,4,1,0.3
+MPSH 1,2026-01-07,Wednesday,14,4,1,0.3
+MPSH 1,2026-01-07,Wednesday,15,4,1,0.3
+MPSH 1,2026-01-07,Wednesday,16,4,2,0.5
+MPSH 1,2026-01-07,Wednesday,17,4,2,0.4
+MPSH 1,2026-01-07,Wednesday,18,4,2,0.6
+MPSH 1,2026-01-07,Wednesday,19,4,3,0.8
+MPSH 1,2026-01-07,Wednesday,20,4,2,0.6
+MPSH 1,2026-01-07,Wednesday,21,4,2,0.4
+MPSH 1,2026-01-07,Wednesday,22,4,1,0.3
+MPSH 1,2026-01-08,Thursday,7,4,2,0.5
+MPSH 1,2026-01-08,Thursday,8,4,1,0.4
+MPSH 1,2026-01-08,Thursday,9,4,0,0.1
+MPSH 1,2026-01-08,Thursday,10,4,2,0.5
+MPSH 1,2026-01-08,Thursday,11,4,2,0.5
+MPSH 1,2026-01-08,Thursday,12,4,2,0.4
+MPSH 1,2026-01-08,Thursday,13,4,1,0.1
+MPSH 1,2026-01-08,Thursday,14,4,1,0.2
+MPSH 1,2026-01-08,Thursday,15,4,1,0.4
+MPSH 1,2026-01-08,Thursday,16,4,1,0.2
+MPSH 1,2026-01-08,Thursday,17,4,1,0.3
+MPSH 1,2026-01-08,Thursday,18,4,3,0.7
+MPSH 1,2026-01-08,Thursday,19,4,4,0.9
+MPSH 1,2026-01-08,Thursday,20,4,3,0.6
+MPSH 1,2026-01-08,Thursday,21,4,2,0.5
+MPSH 1,2026-01-08,Thursday,22,4,2,0.4
+MPSH 1,2026-01-09,Friday,7,4,1,0.2
+MPSH 1,2026-01-09,Friday,8,4,1,0.2
+MPSH 1,2026-01-09,Friday,9,4,1,0.2
+MPSH 1,2026-01-09,Friday,10,4,1,0.3
+MPSH 1,2026-01-09,Friday,11,4,1,0.2
+MPSH 1,2026-01-09,Friday,12,4,1,0.3
+MPSH 1,2026-01-09,Friday,13,4,1,0.3
+MPSH 1,2026-01-09,Friday,14,4,2,0.4
+MPSH 1,2026-01-09,Friday,15,4,0,0.1
+MPSH 1,2026-01-09,Friday,16,4,2,0.4
+MPSH 1,2026-01-09,Friday,17,4,1,0.1
+MPSH 1,2026-01-09,Friday,18,4,3,0.9
+MPSH 1,2026-01-09,Friday,19,4,2,0.6
+MPSH 1,2026-01-09,Friday,20,4,3,0.8
+MPSH 1,2026-01-09,Friday,21,4,2,0.4
+MPSH 1,2026-01-09,Friday,22,4,1,0.2
+MPSH 1,2026-01-10,Saturday,7,4,2,0.4
+MPSH 1,2026-01-10,Saturday,8,4,1,0.4
+MPSH 1,2026-01-10,Saturday,9,4,3,0.6
+MPSH 1,2026-01-10,Saturday,10,4,2,0.6
+MPSH 1,2026-01-10,Saturday,11,4,2,0.4
+MPSH 1,2026-01-10,Saturday,12,4,2,0.5
+MPSH 1,2026-01-10,Saturday,13,4,2,0.5
+MPSH 1,2026-01-10,Saturday,14,4,2,0.4
+MPSH 1,2026-01-10,Saturday,15,4,2,0.6
+MPSH 1,2026-01-10,Saturday,16,4,3,0.6
+MPSH 1,2026-01-10,Saturday,17,4,2,0.5
+MPSH 1,2026-01-10,Saturday,18,4,3,0.8
+MPSH 1,2026-01-10,Saturday,19,4,3,0.7
+MPSH 1,2026-01-10,Saturday,20,4,3,0.7
+MPSH 1,2026-01-10,Saturday,21,4,2,0.6
+MPSH 1,2026-01-10,Saturday,22,4,2,0.6
+MPSH 1,2026-01-11,Sunday,7,4,3,0.7
+MPSH 1,2026-01-11,Sunday,8,4,1,0.3
+MPSH 1,2026-01-11,Sunday,9,4,3,0.6
+MPSH 1,2026-01-11,Sunday,10,4,2,0.4
+MPSH 1,2026-01-11,Sunday,11,4,1,0.4
+MPSH 1,2026-01-11,Sunday,12,4,3,0.7
+MPSH 1,2026-01-11,Sunday,13,4,2,0.6
+MPSH 1,2026-01-11,Sunday,14,4,3,0.6
+MPSH 1,2026-01-11,Sunday,15,4,2,0.4
+MPSH 1,2026-01-11,Sunday,16,4,3,0.7
+MPSH 1,2026-01-11,Sunday,17,4,2,0.4
+MPSH 1,2026-01-11,Sunday,18,4,4,0.9
+MPSH 1,2026-01-11,Sunday,19,4,4,1.0
+MPSH 1,2026-01-11,Sunday,20,4,3,0.8
+MPSH 1,2026-01-11,Sunday,21,4,1,0.4
+MPSH 1,2026-01-11,Sunday,22,4,1,0.3
+MPSH 1,2026-01-12,Monday,7,4,1,0.4
+MPSH 1,2026-01-12,Monday,8,4,2,0.5
+MPSH 1,2026-01-12,Monday,9,4,2,0.4
+MPSH 1,2026-01-12,Monday,10,4,1,0.3
+MPSH 1,2026-01-12,Monday,11,4,1,0.2
+MPSH 1,2026-01-12,Monday,12,4,1,0.3
+MPSH 1,2026-01-12,Monday,13,4,1,0.3
+MPSH 1,2026-01-12,Monday,14,4,2,0.4
+MPSH 1,2026-01-12,Monday,15,4,1,0.3
+MPSH 1,2026-01-12,Monday,16,4,1,0.1
+MPSH 1,2026-01-12,Monday,17,4,1,0.3
+MPSH 1,2026-01-12,Monday,18,4,2,0.6
+MPSH 1,2026-01-12,Monday,19,4,3,0.7
+MPSH 1,2026-01-12,Monday,20,4,3,0.7
+MPSH 1,2026-01-12,Monday,21,4,1,0.3
+MPSH 1,2026-01-12,Monday,22,4,2,0.4
+MPSH 1,2026-01-13,Tuesday,7,4,1,0.2
+MPSH 1,2026-01-13,Tuesday,8,4,2,0.5
+MPSH 1,2026-01-13,Tuesday,9,4,1,0.3
+MPSH 1,2026-01-13,Tuesday,10,4,2,0.4
+MPSH 1,2026-01-13,Tuesday,11,4,1,0.3
+MPSH 1,2026-01-13,Tuesday,12,4,1,0.3
+MPSH 1,2026-01-13,Tuesday,13,4,2,0.4
+MPSH 1,2026-01-13,Tuesday,14,4,1,0.2
+MPSH 1,2026-01-13,Tuesday,15,4,1,0.3
+MPSH 1,2026-01-13,Tuesday,16,4,2,0.5
+MPSH 1,2026-01-13,Tuesday,17,4,1,0.2
+MPSH 1,2026-01-13,Tuesday,18,4,3,0.8
+MPSH 1,2026-01-13,Tuesday,19,4,2,0.5
+MPSH 1,2026-01-13,Tuesday,20,4,3,0.8
+MPSH 1,2026-01-13,Tuesday,21,4,1,0.2
+MPSH 1,2026-01-13,Tuesday,22,4,2,0.4
+MPSH 1,2026-01-14,Wednesday,7,4,2,0.4
+MPSH 1,2026-01-14,Wednesday,8,4,0,0.1
+MPSH 1,2026-01-14,Wednesday,9,4,2,0.4
+MPSH 1,2026-01-14,Wednesday,10,4,2,0.5
+MPSH 1,2026-01-14,Wednesday,11,4,1,0.3
+MPSH 1,2026-01-14,Wednesday,12,4,2,0.4
+MPSH 1,2026-01-14,Wednesday,13,4,1,0.2
+MPSH 1,2026-01-14,Wednesday,14,4,2,0.4
+MPSH 1,2026-01-14,Wednesday,15,4,1,0.3
+MPSH 1,2026-01-14,Wednesday,16,4,1,0.3
+MPSH 1,2026-01-14,Wednesday,17,4,2,0.4
+MPSH 1,2026-01-14,Wednesday,18,4,3,0.8
+MPSH 1,2026-01-14,Wednesday,19,4,3,0.7
+MPSH 1,2026-01-14,Wednesday,20,4,3,0.9
+MPSH 1,2026-01-14,Wednesday,21,4,2,0.4
+MPSH 1,2026-01-14,Wednesday,22,4,1,0.3
+MPSH 1,2026-01-15,Thursday,7,4,1,0.3
+MPSH 1,2026-01-15,Thursday,8,4,2,0.5
+MPSH 1,2026-01-15,Thursday,9,4,1,0.3
+MPSH 1,2026-01-15,Thursday,10,4,1,0.2
+MPSH 1,2026-01-15,Thursday,11,4,1,0.2
+MPSH 1,2026-01-15,Thursday,12,4,0,0.1
+MPSH 1,2026-01-15,Thursday,13,4,0,0.1
+MPSH 1,2026-01-15,Thursday,14,4,1,0.3
+MPSH 1,2026-01-15,Thursday,15,4,1,0.3
+MPSH 1,2026-01-15,Thursday,16,4,1,0.4
+MPSH 1,2026-01-15,Thursday,17,4,0,0.1
+MPSH 1,2026-01-15,Thursday,18,4,3,0.8
+MPSH 1,2026-01-15,Thursday,19,4,3,0.8
+MPSH 1,2026-01-15,Thursday,20,4,3,0.9
+MPSH 1,2026-01-15,Thursday,21,4,1,0.4
+MPSH 1,2026-01-15,Thursday,22,4,1,0.3
+MPSH 1,2026-01-16,Friday,7,4,1,0.4
+MPSH 1,2026-01-16,Friday,8,4,2,0.5
+MPSH 1,2026-01-16,Friday,9,4,2,0.4
+MPSH 1,2026-01-16,Friday,10,4,1,0.2
+MPSH 1,2026-01-16,Friday,11,4,1,0.1
+MPSH 1,2026-01-16,Friday,12,4,1,0.2
+MPSH 1,2026-01-16,Friday,13,4,0,0.1
+MPSH 1,2026-01-16,Friday,14,4,1,0.2
+MPSH 1,2026-01-16,Friday,15,4,1,0.3
+MPSH 1,2026-01-16,Friday,16,4,1,0.4
+MPSH 1,2026-01-16,Friday,17,4,2,0.4
+MPSH 1,2026-01-16,Friday,18,4,2,0.5
+MPSH 1,2026-01-16,Friday,19,4,2,0.6
+MPSH 1,2026-01-16,Friday,20,4,2,0.6
+MPSH 1,2026-01-16,Friday,21,4,1,0.2
+MPSH 1,2026-01-16,Friday,22,4,2,0.4
+MPSH 1,2026-01-17,Saturday,7,4,2,0.6
+MPSH 1,2026-01-17,Saturday,8,4,3,0.7
+MPSH 1,2026-01-17,Saturday,9,4,2,0.5
+MPSH 1,2026-01-17,Saturday,10,4,2,0.4
+MPSH 1,2026-01-17,Saturday,11,4,3,0.7
+MPSH 1,2026-01-17,Saturday,12,4,3,0.7
+MPSH 1,2026-01-17,Saturday,13,4,2,0.4
+MPSH 1,2026-01-17,Saturday,14,4,1,0.4
+MPSH 1,2026-01-17,Saturday,15,4,3,0.7
+MPSH 1,2026-01-17,Saturday,16,4,3,0.6
+MPSH 1,2026-01-17,Saturday,17,4,1,0.3
+MPSH 1,2026-01-17,Saturday,18,4,4,0.9
+MPSH 1,2026-01-17,Saturday,19,4,4,0.9
+MPSH 1,2026-01-17,Saturday,20,4,4,1.0
+MPSH 1,2026-01-17,Saturday,21,4,3,0.7
+MPSH 1,2026-01-17,Saturday,22,4,2,0.4
+MPSH 1,2026-01-18,Sunday,7,4,3,0.7
+MPSH 1,2026-01-18,Sunday,8,4,1,0.3
+MPSH 1,2026-01-18,Sunday,9,4,2,0.6
+MPSH 1,2026-01-18,Sunday,10,4,1,0.4
+MPSH 1,2026-01-18,Sunday,11,4,2,0.6
+MPSH 1,2026-01-18,Sunday,12,4,2,0.6
+MPSH 1,2026-01-18,Sunday,13,4,2,0.4
+MPSH 1,2026-01-18,Sunday,14,4,2,0.5
+MPSH 1,2026-01-18,Sunday,15,4,1,0.3
+MPSH 1,2026-01-18,Sunday,16,4,2,0.5
+MPSH 1,2026-01-18,Sunday,17,4,2,0.5
+MPSH 1,2026-01-18,Sunday,18,4,4,1.0
+MPSH 1,2026-01-18,Sunday,19,4,3,0.8
+MPSH 1,2026-01-18,Sunday,20,4,3,0.8
+MPSH 1,2026-01-18,Sunday,21,4,2,0.6
+MPSH 1,2026-01-18,Sunday,22,4,2,0.5
+MPSH 1,2026-01-19,Monday,7,4,1,0.2
+MPSH 1,2026-01-19,Monday,8,4,1,0.2
+MPSH 1,2026-01-19,Monday,9,4,1,0.3
+MPSH 1,2026-01-19,Monday,10,4,1,0.3
+MPSH 1,2026-01-19,Monday,11,4,2,0.4
+MPSH 1,2026-01-19,Monday,12,4,2,0.4
+MPSH 1,2026-01-19,Monday,13,4,1,0.2
+MPSH 1,2026-01-19,Monday,14,4,2,0.4
+MPSH 1,2026-01-19,Monday,15,4,0,0.1
+MPSH 1,2026-01-19,Monday,16,4,0,0.1
+MPSH 1,2026-01-19,Monday,17,4,1,0.2
+MPSH 1,2026-01-19,Monday,18,4,3,0.6
+MPSH 1,2026-01-19,Monday,19,4,2,0.6
+MPSH 1,2026-01-19,Monday,20,4,3,0.9
+MPSH 1,2026-01-19,Monday,21,4,2,0.4
+MPSH 1,2026-01-19,Monday,22,4,2,0.4
+MPSH 1,2026-01-20,Tuesday,7,4,1,0.1
+MPSH 1,2026-01-20,Tuesday,8,4,1,0.3
+MPSH 1,2026-01-20,Tuesday,9,4,2,0.4
+MPSH 1,2026-01-20,Tuesday,10,4,1,0.3
+MPSH 1,2026-01-20,Tuesday,11,4,1,0.1
+MPSH 1,2026-01-20,Tuesday,12,4,1,0.1
+MPSH 1,2026-01-20,Tuesday,13,4,1,0.3
+MPSH 1,2026-01-20,Tuesday,14,4,1,0.3
+MPSH 1,2026-01-20,Tuesday,15,4,1,0.3
+MPSH 1,2026-01-20,Tuesday,16,4,1,0.1
+MPSH 1,2026-01-20,Tuesday,17,4,0,0.1
+MPSH 1,2026-01-20,Tuesday,18,4,3,0.6
+MPSH 1,2026-01-20,Tuesday,19,4,2,0.6
+MPSH 1,2026-01-20,Tuesday,20,4,3,0.8
+MPSH 1,2026-01-20,Tuesday,21,4,1,0.1
+MPSH 1,2026-01-20,Tuesday,22,4,2,0.4
+MPSH 1,2026-01-21,Wednesday,7,4,1,0.3
+MPSH 1,2026-01-21,Wednesday,8,4,2,0.4
+MPSH 1,2026-01-21,Wednesday,9,4,0,0.1
+MPSH 1,2026-01-21,Wednesday,10,4,2,0.4
+MPSH 1,2026-01-21,Wednesday,11,4,1,0.2
+MPSH 1,2026-01-21,Wednesday,12,4,1,0.2
+MPSH 1,2026-01-21,Wednesday,13,4,1,0.2
+MPSH 1,2026-01-21,Wednesday,14,4,2,0.4
+MPSH 1,2026-01-21,Wednesday,15,4,1,0.3
+MPSH 1,2026-01-21,Wednesday,16,4,2,0.4
+MPSH 1,2026-01-21,Wednesday,17,4,1,0.2
+MPSH 1,2026-01-21,Wednesday,18,4,3,0.7
+MPSH 1,2026-01-21,Wednesday,19,4,3,0.7
+MPSH 1,2026-01-21,Wednesday,20,4,2,0.6
+MPSH 1,2026-01-21,Wednesday,21,4,1,0.1
+MPSH 1,2026-01-21,Wednesday,22,4,2,0.4
+MPSH 1,2026-01-22,Thursday,7,4,1,0.2
+MPSH 1,2026-01-22,Thursday,8,4,2,0.5
+MPSH 1,2026-01-22,Thursday,9,4,1,0.2
+MPSH 1,2026-01-22,Thursday,10,4,1,0.2
+MPSH 1,2026-01-22,Thursday,11,4,1,0.2
+MPSH 1,2026-01-22,Thursday,12,4,2,0.4
+MPSH 1,2026-01-22,Thursday,13,4,1,0.2
+MPSH 1,2026-01-22,Thursday,14,4,2,0.4
+MPSH 1,2026-01-22,Thursday,15,4,0,0.1
+MPSH 1,2026-01-22,Thursday,16,4,1,0.3
+MPSH 1,2026-01-22,Thursday,17,4,0,0.1
+MPSH 1,2026-01-22,Thursday,18,4,3,0.6
+MPSH 1,2026-01-22,Thursday,19,4,3,0.7
+MPSH 1,2026-01-22,Thursday,20,4,3,0.7
+MPSH 1,2026-01-22,Thursday,21,4,1,0.2
+MPSH 1,2026-01-22,Thursday,22,4,2,0.4
+MPSH 1,2026-01-23,Friday,7,4,1,0.4
+MPSH 1,2026-01-23,Friday,8,4,1,0.2
+MPSH 1,2026-01-23,Friday,9,4,1,0.3
+MPSH 1,2026-01-23,Friday,10,4,1,0.3
+MPSH 1,2026-01-23,Friday,11,4,2,0.4
+MPSH 1,2026-01-23,Friday,12,4,1,0.3
+MPSH 1,2026-01-23,Friday,13,4,1,0.3
+MPSH 1,2026-01-23,Friday,14,4,1,0.1
+MPSH 1,2026-01-23,Friday,15,4,1,0.2
+MPSH 1,2026-01-23,Friday,16,4,1,0.3
+MPSH 1,2026-01-23,Friday,17,4,2,0.4
+MPSH 1,2026-01-23,Friday,18,4,3,0.8
+MPSH 1,2026-01-23,Friday,19,4,3,0.7
+MPSH 1,2026-01-23,Friday,20,4,3,0.8
+MPSH 1,2026-01-23,Friday,21,4,1,0.1
+MPSH 1,2026-01-23,Friday,22,4,2,0.5
+MPSH 2,2025-12-25,Thursday,7,4,1,0.3
+MPSH 2,2025-12-25,Thursday,8,4,2,0.5
+MPSH 2,2025-12-25,Thursday,9,4,1,0.3
+MPSH 2,2025-12-25,Thursday,10,4,1,0.2
+MPSH 2,2025-12-25,Thursday,11,4,2,0.4
+MPSH 2,2025-12-25,Thursday,12,4,1,0.3
+MPSH 2,2025-12-25,Thursday,13,4,1,0.4
+MPSH 2,2025-12-25,Thursday,14,4,1,0.2
+MPSH 2,2025-12-25,Thursday,15,4,0,0.1
+MPSH 2,2025-12-25,Thursday,16,4,2,0.4
+MPSH 2,2025-12-25,Thursday,17,4,1,0.3
+MPSH 2,2025-12-25,Thursday,18,4,3,0.6
+MPSH 2,2025-12-25,Thursday,19,4,3,0.7
+MPSH 2,2025-12-25,Thursday,20,4,2,0.5
+MPSH 2,2025-12-25,Thursday,21,4,2,0.4
+MPSH 2,2025-12-25,Thursday,22,4,1,0.2
+MPSH 2,2025-12-26,Friday,7,4,1,0.4
+MPSH 2,2025-12-26,Friday,8,4,1,0.3
+MPSH 2,2025-12-26,Friday,9,4,2,0.5
+MPSH 2,2025-12-26,Friday,10,4,2,0.4
+MPSH 2,2025-12-26,Friday,11,4,1,0.4
+MPSH 2,2025-12-26,Friday,12,4,1,0.3
+MPSH 2,2025-12-26,Friday,13,4,1,0.1
+MPSH 2,2025-12-26,Friday,14,4,2,0.4
+MPSH 2,2025-12-26,Friday,15,4,2,0.4
+MPSH 2,2025-12-26,Friday,16,4,1,0.2
+MPSH 2,2025-12-26,Friday,17,4,2,0.4
+MPSH 2,2025-12-26,Friday,18,4,3,0.8
+MPSH 2,2025-12-26,Friday,19,4,3,0.6
+MPSH 2,2025-12-26,Friday,20,4,3,0.9
+MPSH 2,2025-12-26,Friday,21,4,1,0.3
+MPSH 2,2025-12-26,Friday,22,4,2,0.5
+MPSH 2,2025-12-27,Saturday,7,4,1,0.3
+MPSH 2,2025-12-27,Saturday,8,4,2,0.5
+MPSH 2,2025-12-27,Saturday,9,4,2,0.5
+MPSH 2,2025-12-27,Saturday,10,4,2,0.5
+MPSH 2,2025-12-27,Saturday,11,4,2,0.6
+MPSH 2,2025-12-27,Saturday,12,4,2,0.6
+MPSH 2,2025-12-27,Saturday,13,4,1,0.3
+MPSH 2,2025-12-27,Saturday,14,4,3,0.6
+MPSH 2,2025-12-27,Saturday,15,4,2,0.6
+MPSH 2,2025-12-27,Saturday,16,4,2,0.6
+MPSH 2,2025-12-27,Saturday,17,4,2,0.5
+MPSH 2,2025-12-27,Saturday,18,4,4,0.9
+MPSH 2,2025-12-27,Saturday,19,4,3,0.8
+MPSH 2,2025-12-27,Saturday,20,4,4,1.0
+MPSH 2,2025-12-27,Saturday,21,4,1,0.4
+MPSH 2,2025-12-27,Saturday,22,4,1,0.3
+MPSH 2,2025-12-28,Sunday,7,4,3,0.6
+MPSH 2,2025-12-28,Sunday,8,4,2,0.6
+MPSH 2,2025-12-28,Sunday,9,4,2,0.4
+MPSH 2,2025-12-28,Sunday,10,4,2,0.6
+MPSH 2,2025-12-28,Sunday,11,4,1,0.3
+MPSH 2,2025-12-28,Sunday,12,4,2,0.6
+MPSH 2,2025-12-28,Sunday,13,4,2,0.4
+MPSH 2,2025-12-28,Sunday,14,4,2,0.4
+MPSH 2,2025-12-28,Sunday,15,4,1,0.3
+MPSH 2,2025-12-28,Sunday,16,4,2,0.6
+MPSH 2,2025-12-28,Sunday,17,4,3,0.6
+MPSH 2,2025-12-28,Sunday,18,4,4,1.0
+MPSH 2,2025-12-28,Sunday,19,4,4,1.0
+MPSH 2,2025-12-28,Sunday,20,4,4,0.9
+MPSH 2,2025-12-28,Sunday,21,4,2,0.6
+MPSH 2,2025-12-28,Sunday,22,4,1,0.4
+MPSH 2,2025-12-29,Monday,7,4,1,0.2
+MPSH 2,2025-12-29,Monday,8,4,1,0.2
+MPSH 2,2025-12-29,Monday,9,4,2,0.5
+MPSH 2,2025-12-29,Monday,10,4,1,0.4
+MPSH 2,2025-12-29,Monday,11,4,0,0.1
+MPSH 2,2025-12-29,Monday,12,4,0,0.1
+MPSH 2,2025-12-29,Monday,13,4,2,0.5
+MPSH 2,2025-12-29,Monday,14,4,1,0.2
+MPSH 2,2025-12-29,Monday,15,4,1,0.2
+MPSH 2,2025-12-29,Monday,16,4,1,0.2
+MPSH 2,2025-12-29,Monday,17,4,1,0.3
+MPSH 2,2025-12-29,Monday,18,4,4,0.9
+MPSH 2,2025-12-29,Monday,19,4,3,0.9
+MPSH 2,2025-12-29,Monday,20,4,3,0.7
+MPSH 2,2025-12-29,Monday,21,4,1,0.3
+MPSH 2,2025-12-29,Monday,22,4,2,0.4
+MPSH 2,2025-12-30,Tuesday,7,4,1,0.2
+MPSH 2,2025-12-30,Tuesday,8,4,1,0.3
+MPSH 2,2025-12-30,Tuesday,9,4,1,0.2
+MPSH 2,2025-12-30,Tuesday,10,4,2,0.5
+MPSH 2,2025-12-30,Tuesday,11,4,1,0.3
+MPSH 2,2025-12-30,Tuesday,12,4,1,0.1
+MPSH 2,2025-12-30,Tuesday,13,4,0,0.1
+MPSH 2,2025-12-30,Tuesday,14,4,1,0.3
+MPSH 2,2025-12-30,Tuesday,15,4,1,0.3
+MPSH 2,2025-12-30,Tuesday,16,4,2,0.4
+MPSH 2,2025-12-30,Tuesday,17,4,2,0.5
+MPSH 2,2025-12-30,Tuesday,18,4,2,0.5
+MPSH 2,2025-12-30,Tuesday,19,4,2,0.5
+MPSH 2,2025-12-30,Tuesday,20,4,3,0.7
+MPSH 2,2025-12-30,Tuesday,21,4,2,0.4
+MPSH 2,2025-12-30,Tuesday,22,4,1,0.2
+MPSH 2,2025-12-31,Wednesday,7,4,1,0.2
+MPSH 2,2025-12-31,Wednesday,8,4,1,0.2
+MPSH 2,2025-12-31,Wednesday,9,4,2,0.4
+MPSH 2,2025-12-31,Wednesday,10,4,1,0.2
+MPSH 2,2025-12-31,Wednesday,11,4,1,0.3
+MPSH 2,2025-12-31,Wednesday,12,4,1,0.3
+MPSH 2,2025-12-31,Wednesday,13,4,1,0.3
+MPSH 2,2025-12-31,Wednesday,14,4,0,0.1
+MPSH 2,2025-12-31,Wednesday,15,4,0,0.1
+MPSH 2,2025-12-31,Wednesday,16,4,0,0.1
+MPSH 2,2025-12-31,Wednesday,17,4,1,0.3
+MPSH 2,2025-12-31,Wednesday,18,4,3,0.7
+MPSH 2,2025-12-31,Wednesday,19,4,3,0.8
+MPSH 2,2025-12-31,Wednesday,20,4,2,0.6
+MPSH 2,2025-12-31,Wednesday,21,4,1,0.3
+MPSH 2,2025-12-31,Wednesday,22,4,1,0.2
+MPSH 2,2026-01-01,Thursday,7,4,1,0.2
+MPSH 2,2026-01-01,Thursday,8,4,1,0.1
+MPSH 2,2026-01-01,Thursday,9,4,1,0.3
+MPSH 2,2026-01-01,Thursday,10,4,1,0.2
+MPSH 2,2026-01-01,Thursday,11,4,1,0.1
+MPSH 2,2026-01-01,Thursday,12,4,2,0.4
+MPSH 2,2026-01-01,Thursday,13,4,2,0.5
+MPSH 2,2026-01-01,Thursday,14,4,1,0.2
+MPSH 2,2026-01-01,Thursday,15,4,2,0.4
+MPSH 2,2026-01-01,Thursday,16,4,1,0.2
+MPSH 2,2026-01-01,Thursday,17,4,1,0.1
+MPSH 2,2026-01-01,Thursday,18,4,3,0.7
+MPSH 2,2026-01-01,Thursday,19,4,3,0.9
+MPSH 2,2026-01-01,Thursday,20,4,3,0.8
+MPSH 2,2026-01-01,Thursday,21,4,1,0.2
+MPSH 2,2026-01-01,Thursday,22,4,1,0.2
+MPSH 2,2026-01-02,Friday,7,4,1,0.2
+MPSH 2,2026-01-02,Friday,8,4,2,0.5
+MPSH 2,2026-01-02,Friday,9,4,1,0.3
+MPSH 2,2026-01-02,Friday,10,4,1,0.2
+MPSH 2,2026-01-02,Friday,11,4,2,0.4
+MPSH 2,2026-01-02,Friday,12,4,1,0.2
+MPSH 2,2026-01-02,Friday,13,4,1,0.3
+MPSH 2,2026-01-02,Friday,14,4,1,0.2
+MPSH 2,2026-01-02,Friday,15,4,1,0.2
+MPSH 2,2026-01-02,Friday,16,4,2,0.5
+MPSH 2,2026-01-02,Friday,17,4,1,0.3
+MPSH 2,2026-01-02,Friday,18,4,2,0.5
+MPSH 2,2026-01-02,Friday,19,4,3,0.8
+MPSH 2,2026-01-02,Friday,20,4,2,0.6
+MPSH 2,2026-01-02,Friday,21,4,2,0.4
+MPSH 2,2026-01-02,Friday,22,4,1,0.3
+MPSH 2,2026-01-03,Saturday,7,4,2,0.5
+MPSH 2,2026-01-03,Saturday,8,4,2,0.6
+MPSH 2,2026-01-03,Saturday,9,4,2,0.4
+MPSH 2,2026-01-03,Saturday,10,4,2,0.5
+MPSH 2,2026-01-03,Saturday,11,4,2,0.6
+MPSH 2,2026-01-03,Saturday,12,4,2,0.5
+MPSH 2,2026-01-03,Saturday,13,4,3,0.7
+MPSH 2,2026-01-03,Saturday,14,4,2,0.5
+MPSH 2,2026-01-03,Saturday,15,4,3,0.7
+MPSH 2,2026-01-03,Saturday,16,4,1,0.3
+MPSH 2,2026-01-03,Saturday,17,4,2,0.5
+MPSH 2,2026-01-03,Saturday,18,4,3,0.8
+MPSH 2,2026-01-03,Saturday,19,4,3,0.9
+MPSH 2,2026-01-03,Saturday,20,4,4,0.9
+MPSH 2,2026-01-03,Saturday,21,4,2,0.4
+MPSH 2,2026-01-03,Saturday,22,4,2,0.6
+MPSH 2,2026-01-04,Sunday,7,4,1,0.3
+MPSH 2,2026-01-04,Sunday,8,4,2,0.5
+MPSH 2,2026-01-04,Sunday,9,4,2,0.4
+MPSH 2,2026-01-04,Sunday,10,4,2,0.5
+MPSH 2,2026-01-04,Sunday,11,4,2,0.5
+MPSH 2,2026-01-04,Sunday,12,4,3,0.7
+MPSH 2,2026-01-04,Sunday,13,4,1,0.3
+MPSH 2,2026-01-04,Sunday,14,4,1,0.3
+MPSH 2,2026-01-04,Sunday,15,4,2,0.4
+MPSH 2,2026-01-04,Sunday,16,4,1,0.4
+MPSH 2,2026-01-04,Sunday,17,4,1,0.3
+MPSH 2,2026-01-04,Sunday,18,4,3,0.7
+MPSH 2,2026-01-04,Sunday,19,4,4,0.9
+MPSH 2,2026-01-04,Sunday,20,4,4,0.9
+MPSH 2,2026-01-04,Sunday,21,4,1,0.3
+MPSH 2,2026-01-04,Sunday,22,4,1,0.4
+MPSH 2,2026-01-05,Monday,7,4,1,0.3
+MPSH 2,2026-01-05,Monday,8,4,2,0.5
+MPSH 2,2026-01-05,Monday,9,4,1,0.3
+MPSH 2,2026-01-05,Monday,10,4,1,0.3
+MPSH 2,2026-01-05,Monday,11,4,2,0.4
+MPSH 2,2026-01-05,Monday,12,4,2,0.4
+MPSH 2,2026-01-05,Monday,13,4,1,0.3
+MPSH 2,2026-01-05,Monday,14,4,1,0.4
+MPSH 2,2026-01-05,Monday,15,4,2,0.4
+MPSH 2,2026-01-05,Monday,16,4,2,0.4
+MPSH 2,2026-01-05,Monday,17,4,1,0.2
+MPSH 2,2026-01-05,Monday,18,4,3,0.7
+MPSH 2,2026-01-05,Monday,19,4,2,0.6
+MPSH 2,2026-01-05,Monday,20,4,3,0.8
+MPSH 2,2026-01-05,Monday,21,4,2,0.4
+MPSH 2,2026-01-05,Monday,22,4,1,0.2
+MPSH 2,2026-01-06,Tuesday,7,4,1,0.3
+MPSH 2,2026-01-06,Tuesday,8,4,1,0.3
+MPSH 2,2026-01-06,Tuesday,9,4,1,0.2
+MPSH 2,2026-01-06,Tuesday,10,4,1,0.3
+MPSH 2,2026-01-06,Tuesday,11,4,2,0.4
+MPSH 2,2026-01-06,Tuesday,12,4,1,0.2
+MPSH 2,2026-01-06,Tuesday,13,4,2,0.5
+MPSH 2,2026-01-06,Tuesday,14,4,1,0.3
+MPSH 2,2026-01-06,Tuesday,15,4,0,0.1
+MPSH 2,2026-01-06,Tuesday,16,4,1,0.4
+MPSH 2,2026-01-06,Tuesday,17,4,1,0.3
+MPSH 2,2026-01-06,Tuesday,18,4,3,0.8
+MPSH 2,2026-01-06,Tuesday,19,4,3,0.7
+MPSH 2,2026-01-06,Tuesday,20,4,3,0.7
+MPSH 2,2026-01-06,Tuesday,21,4,1,0.2
+MPSH 2,2026-01-06,Tuesday,22,4,1,0.2
+MPSH 2,2026-01-07,Wednesday,7,4,2,0.4
+MPSH 2,2026-01-07,Wednesday,8,4,2,0.4
+MPSH 2,2026-01-07,Wednesday,9,4,2,0.4
+MPSH 2,2026-01-07,Wednesday,10,4,1,0.3
+MPSH 2,2026-01-07,Wednesday,11,4,1,0.3
+MPSH 2,2026-01-07,Wednesday,12,4,2,0.4
+MPSH 2,2026-01-07,Wednesday,13,4,1,0.3
+MPSH 2,2026-01-07,Wednesday,14,4,0,0.1
+MPSH 2,2026-01-07,Wednesday,15,4,1,0.3
+MPSH 2,2026-01-07,Wednesday,16,4,1,0.3
+MPSH 2,2026-01-07,Wednesday,17,4,1,0.4
+MPSH 2,2026-01-07,Wednesday,18,4,2,0.5
+MPSH 2,2026-01-07,Wednesday,19,4,3,0.7
+MPSH 2,2026-01-07,Wednesday,20,4,2,0.6
+MPSH 2,2026-01-07,Wednesday,21,4,1,0.2
+MPSH 2,2026-01-07,Wednesday,22,4,1,0.2
+MPSH 2,2026-01-08,Thursday,7,4,1,0.2
+MPSH 2,2026-01-08,Thursday,8,4,1,0.3
+MPSH 2,2026-01-08,Thursday,9,4,2,0.4
+MPSH 2,2026-01-08,Thursday,10,4,2,0.4
+MPSH 2,2026-01-08,Thursday,11,4,1,0.3
+MPSH 2,2026-01-08,Thursday,12,4,1,0.2
+MPSH 2,2026-01-08,Thursday,13,4,1,0.4
+MPSH 2,2026-01-08,Thursday,14,4,1,0.3
+MPSH 2,2026-01-08,Thursday,15,4,1,0.4
+MPSH 2,2026-01-08,Thursday,16,4,1,0.3
+MPSH 2,2026-01-08,Thursday,17,4,2,0.5
+MPSH 2,2026-01-08,Thursday,18,4,3,0.7
+MPSH 2,2026-01-08,Thursday,19,4,3,0.8
+MPSH 2,2026-01-08,Thursday,20,4,2,0.5
+MPSH 2,2026-01-08,Thursday,21,4,2,0.4
+MPSH 2,2026-01-08,Thursday,22,4,1,0.3
+MPSH 2,2026-01-09,Friday,7,4,1,0.3
+MPSH 2,2026-01-09,Friday,8,4,2,0.4
+MPSH 2,2026-01-09,Friday,9,4,1,0.2
+MPSH 2,2026-01-09,Friday,10,4,2,0.4
+MPSH 2,2026-01-09,Friday,11,4,1,0.1
+MPSH 2,2026-01-09,Friday,12,4,1,0.3
+MPSH 2,2026-01-09,Friday,13,4,2,0.4
+MPSH 2,2026-01-09,Friday,14,4,1,0.2
+MPSH 2,2026-01-09,Friday,15,4,1,0.4
+MPSH 2,2026-01-09,Friday,16,4,1,0.2
+MPSH 2,2026-01-09,Friday,17,4,1,0.3
+MPSH 2,2026-01-09,Friday,18,4,3,0.8
+MPSH 2,2026-01-09,Friday,19,4,3,0.8
+MPSH 2,2026-01-09,Friday,20,4,2,0.6
+MPSH 2,2026-01-09,Friday,21,4,1,0.3
+MPSH 2,2026-01-09,Friday,22,4,2,0.4
+MPSH 2,2026-01-10,Saturday,7,4,1,0.4
+MPSH 2,2026-01-10,Saturday,8,4,2,0.4
+MPSH 2,2026-01-10,Saturday,9,4,2,0.5
+MPSH 2,2026-01-10,Saturday,10,4,2,0.4
+MPSH 2,2026-01-10,Saturday,11,4,3,0.7
+MPSH 2,2026-01-10,Saturday,12,4,1,0.3
+MPSH 2,2026-01-10,Saturday,13,4,2,0.5
+MPSH 2,2026-01-10,Saturday,14,4,2,0.5
+MPSH 2,2026-01-10,Saturday,15,4,1,0.4
+MPSH 2,2026-01-10,Saturday,16,4,1,0.3
+MPSH 2,2026-01-10,Saturday,17,4,1,0.4
+MPSH 2,2026-01-10,Saturday,18,4,4,0.9
+MPSH 2,2026-01-10,Saturday,19,4,4,1.0
+MPSH 2,2026-01-10,Saturday,20,4,4,1.0
+MPSH 2,2026-01-10,Saturday,21,4,2,0.6
+MPSH 2,2026-01-10,Saturday,22,4,2,0.5
+MPSH 2,2026-01-11,Sunday,7,4,1,0.3
+MPSH 2,2026-01-11,Sunday,8,4,2,0.6
+MPSH 2,2026-01-11,Sunday,9,4,2,0.4
+MPSH 2,2026-01-11,Sunday,10,4,2,0.5
+MPSH 2,2026-01-11,Sunday,11,4,2,0.5
+MPSH 2,2026-01-11,Sunday,12,4,3,0.6
+MPSH 2,2026-01-11,Sunday,13,4,2,0.4
+MPSH 2,2026-01-11,Sunday,14,4,1,0.3
+MPSH 2,2026-01-11,Sunday,15,4,2,0.6
+MPSH 2,2026-01-11,Sunday,16,4,2,0.5
+MPSH 2,2026-01-11,Sunday,17,4,3,0.7
+MPSH 2,2026-01-11,Sunday,18,4,3,0.8
+MPSH 2,2026-01-11,Sunday,19,4,4,1.0
+MPSH 2,2026-01-11,Sunday,20,4,3,0.8
+MPSH 2,2026-01-11,Sunday,21,4,1,0.4
+MPSH 2,2026-01-11,Sunday,22,4,1,0.3
+MPSH 2,2026-01-12,Monday,7,4,1,0.3
+MPSH 2,2026-01-12,Monday,8,4,1,0.3
+MPSH 2,2026-01-12,Monday,9,4,1,0.3
+MPSH 2,2026-01-12,Monday,10,4,0,0.1
+MPSH 2,2026-01-12,Monday,11,4,2,0.5
+MPSH 2,2026-01-12,Monday,12,4,1,0.1
+MPSH 2,2026-01-12,Monday,13,4,1,0.2
+MPSH 2,2026-01-12,Monday,14,4,1,0.2
+MPSH 2,2026-01-12,Monday,15,4,1,0.3
+MPSH 2,2026-01-12,Monday,16,4,2,0.4
+MPSH 2,2026-01-12,Monday,17,4,1,0.3
+MPSH 2,2026-01-12,Monday,18,4,2,0.6
+MPSH 2,2026-01-12,Monday,19,4,3,0.8
+MPSH 2,2026-01-12,Monday,20,4,2,0.5
+MPSH 2,2026-01-12,Monday,21,4,1,0.2
+MPSH 2,2026-01-12,Monday,22,4,1,0.2
+MPSH 2,2026-01-13,Tuesday,7,4,2,0.4
+MPSH 2,2026-01-13,Tuesday,8,4,2,0.4
+MPSH 2,2026-01-13,Tuesday,9,4,2,0.5
+MPSH 2,2026-01-13,Tuesday,10,4,1,0.3
+MPSH 2,2026-01-13,Tuesday,11,4,1,0.3
+MPSH 2,2026-01-13,Tuesday,12,4,1,0.2
+MPSH 2,2026-01-13,Tuesday,13,4,1,0.2
+MPSH 2,2026-01-13,Tuesday,14,4,1,0.2
+MPSH 2,2026-01-13,Tuesday,15,4,1,0.2
+MPSH 2,2026-01-13,Tuesday,16,4,2,0.4
+MPSH 2,2026-01-13,Tuesday,17,4,1,0.2
+MPSH 2,2026-01-13,Tuesday,18,4,3,0.7
+MPSH 2,2026-01-13,Tuesday,19,4,2,0.6
+MPSH 2,2026-01-13,Tuesday,20,4,2,0.5
+MPSH 2,2026-01-13,Tuesday,21,4,1,0.2
+MPSH 2,2026-01-13,Tuesday,22,4,1,0.4
+MPSH 2,2026-01-14,Wednesday,7,4,1,0.3
+MPSH 2,2026-01-14,Wednesday,8,4,1,0.3
+MPSH 2,2026-01-14,Wednesday,9,4,0,0.1
+MPSH 2,2026-01-14,Wednesday,10,4,1,0.2
+MPSH 2,2026-01-14,Wednesday,11,4,1,0.4
+MPSH 2,2026-01-14,Wednesday,12,4,0,0.1
+MPSH 2,2026-01-14,Wednesday,13,4,2,0.4
+MPSH 2,2026-01-14,Wednesday,14,4,1,0.3
+MPSH 2,2026-01-14,Wednesday,15,4,2,0.4
+MPSH 2,2026-01-14,Wednesday,16,4,1,0.2
+MPSH 2,2026-01-14,Wednesday,17,4,1,0.3
+MPSH 2,2026-01-14,Wednesday,18,4,2,0.6
+MPSH 2,2026-01-14,Wednesday,19,4,3,0.8
+MPSH 2,2026-01-14,Wednesday,20,4,4,0.9
+MPSH 2,2026-01-14,Wednesday,21,4,0,0.1
+MPSH 2,2026-01-14,Wednesday,22,4,1,0.2
+MPSH 2,2026-01-15,Thursday,7,4,2,0.5
+MPSH 2,2026-01-15,Thursday,8,4,2,0.5
+MPSH 2,2026-01-15,Thursday,9,4,1,0.3
+MPSH 2,2026-01-15,Thursday,10,4,1,0.3
+MPSH 2,2026-01-15,Thursday,11,4,1,0.3
+MPSH 2,2026-01-15,Thursday,12,4,1,0.4
+MPSH 2,2026-01-15,Thursday,13,4,2,0.5
+MPSH 2,2026-01-15,Thursday,14,4,1,0.4
+MPSH 2,2026-01-15,Thursday,15,4,1,0.4
+MPSH 2,2026-01-15,Thursday,16,4,2,0.4
+MPSH 2,2026-01-15,Thursday,17,4,1,0.2
+MPSH 2,2026-01-15,Thursday,18,4,2,0.5
+MPSH 2,2026-01-15,Thursday,19,4,4,0.9
+MPSH 2,2026-01-15,Thursday,20,4,2,0.6
+MPSH 2,2026-01-15,Thursday,21,4,1,0.2
+MPSH 2,2026-01-15,Thursday,22,4,2,0.4
+MPSH 2,2026-01-16,Friday,7,4,1,0.2
+MPSH 2,2026-01-16,Friday,8,4,2,0.5
+MPSH 2,2026-01-16,Friday,9,4,1,0.1
+MPSH 2,2026-01-16,Friday,10,4,1,0.4
+MPSH 2,2026-01-16,Friday,11,4,2,0.4
+MPSH 2,2026-01-16,Friday,12,4,1,0.1
+MPSH 2,2026-01-16,Friday,13,4,1,0.3
+MPSH 2,2026-01-16,Friday,14,4,1,0.3
+MPSH 2,2026-01-16,Friday,15,4,1,0.1
+MPSH 2,2026-01-16,Friday,16,4,2,0.4
+MPSH 2,2026-01-16,Friday,17,4,2,0.5
+MPSH 2,2026-01-16,Friday,18,4,2,0.5
+MPSH 2,2026-01-16,Friday,19,4,3,0.8
+MPSH 2,2026-01-16,Friday,20,4,2,0.6
+MPSH 2,2026-01-16,Friday,21,4,0,0.1
+MPSH 2,2026-01-16,Friday,22,4,1,0.4
+MPSH 2,2026-01-17,Saturday,7,4,1,0.3
+MPSH 2,2026-01-17,Saturday,8,4,2,0.5
+MPSH 2,2026-01-17,Saturday,9,4,3,0.7
+MPSH 2,2026-01-17,Saturday,10,4,3,0.6
+MPSH 2,2026-01-17,Saturday,11,4,2,0.6
+MPSH 2,2026-01-17,Saturday,12,4,3,0.7
+MPSH 2,2026-01-17,Saturday,13,4,2,0.4
+MPSH 2,2026-01-17,Saturday,14,4,2,0.5
+MPSH 2,2026-01-17,Saturday,15,4,1,0.3
+MPSH 2,2026-01-17,Saturday,16,4,1,0.4
+MPSH 2,2026-01-17,Saturday,17,4,1,0.3
+MPSH 2,2026-01-17,Saturday,18,4,3,0.8
+MPSH 2,2026-01-17,Saturday,19,4,4,1.0
+MPSH 2,2026-01-17,Saturday,20,4,3,0.8
+MPSH 2,2026-01-17,Saturday,21,4,1,0.3
+MPSH 2,2026-01-17,Saturday,22,4,3,0.6
+MPSH 2,2026-01-18,Sunday,7,4,2,0.6
+MPSH 2,2026-01-18,Sunday,8,4,3,0.7
+MPSH 2,2026-01-18,Sunday,9,4,2,0.6
+MPSH 2,2026-01-18,Sunday,10,4,2,0.4
+MPSH 2,2026-01-18,Sunday,11,4,1,0.3
+MPSH 2,2026-01-18,Sunday,12,4,3,0.6
+MPSH 2,2026-01-18,Sunday,13,4,2,0.5
+MPSH 2,2026-01-18,Sunday,14,4,2,0.4
+MPSH 2,2026-01-18,Sunday,15,4,2,0.5
+MPSH 2,2026-01-18,Sunday,16,4,2,0.5
+MPSH 2,2026-01-18,Sunday,17,4,2,0.4
+MPSH 2,2026-01-18,Sunday,18,4,4,1.0
+MPSH 2,2026-01-18,Sunday,19,4,4,1.0
+MPSH 2,2026-01-18,Sunday,20,4,3,0.8
+MPSH 2,2026-01-18,Sunday,21,4,2,0.4
+MPSH 2,2026-01-18,Sunday,22,4,2,0.5
+MPSH 2,2026-01-19,Monday,7,4,1,0.3
+MPSH 2,2026-01-19,Monday,8,4,1,0.2
+MPSH 2,2026-01-19,Monday,9,4,1,0.2
+MPSH 2,2026-01-19,Monday,10,4,1,0.3
+MPSH 2,2026-01-19,Monday,11,4,1,0.1
+MPSH 2,2026-01-19,Monday,12,4,2,0.4
+MPSH 2,2026-01-19,Monday,13,4,1,0.3
+MPSH 2,2026-01-19,Monday,14,4,2,0.5
+MPSH 2,2026-01-19,Monday,15,4,2,0.4
+MPSH 2,2026-01-19,Monday,16,4,1,0.2
+MPSH 2,2026-01-19,Monday,17,4,1,0.3
+MPSH 2,2026-01-19,Monday,18,4,2,0.5
+MPSH 2,2026-01-19,Monday,19,4,3,0.6
+MPSH 2,2026-01-19,Monday,20,4,3,0.7
+MPSH 2,2026-01-19,Monday,21,4,1,0.2
+MPSH 2,2026-01-19,Monday,22,4,1,0.3
+MPSH 2,2026-01-20,Tuesday,7,4,2,0.4
+MPSH 2,2026-01-20,Tuesday,8,4,1,0.3
+MPSH 2,2026-01-20,Tuesday,9,4,2,0.5
+MPSH 2,2026-01-20,Tuesday,10,4,1,0.3
+MPSH 2,2026-01-20,Tuesday,11,4,0,0.1
+MPSH 2,2026-01-20,Tuesday,12,4,2,0.5
+MPSH 2,2026-01-20,Tuesday,13,4,2,0.4
+MPSH 2,2026-01-20,Tuesday,14,4,2,0.4
+MPSH 2,2026-01-20,Tuesday,15,4,0,0.1
+MPSH 2,2026-01-20,Tuesday,16,4,2,0.5
+MPSH 2,2026-01-20,Tuesday,17,4,1,0.2
+MPSH 2,2026-01-20,Tuesday,18,4,3,0.7
+MPSH 2,2026-01-20,Tuesday,19,4,3,0.8
+MPSH 2,2026-01-20,Tuesday,20,4,3,0.7
+MPSH 2,2026-01-20,Tuesday,21,4,1,0.3
+MPSH 2,2026-01-20,Tuesday,22,4,1,0.2
+MPSH 2,2026-01-21,Wednesday,7,4,1,0.1
+MPSH 2,2026-01-21,Wednesday,8,4,1,0.3
+MPSH 2,2026-01-21,Wednesday,9,4,0,0.1
+MPSH 2,2026-01-21,Wednesday,10,4,1,0.1
+MPSH 2,2026-01-21,Wednesday,11,4,1,0.2
+MPSH 2,2026-01-21,Wednesday,12,4,2,0.4
+MPSH 2,2026-01-21,Wednesday,13,4,1,0.1
+MPSH 2,2026-01-21,Wednesday,14,4,1,0.2
+MPSH 2,2026-01-21,Wednesday,15,4,1,0.2
+MPSH 2,2026-01-21,Wednesday,16,4,1,0.1
+MPSH 2,2026-01-21,Wednesday,17,4,2,0.4
+MPSH 2,2026-01-21,Wednesday,18,4,3,0.7
+MPSH 2,2026-01-21,Wednesday,19,4,3,0.7
+MPSH 2,2026-01-21,Wednesday,20,4,2,0.6
+MPSH 2,2026-01-21,Wednesday,21,4,2,0.4
+MPSH 2,2026-01-21,Wednesday,22,4,1,0.3
+MPSH 2,2026-01-22,Thursday,7,4,1,0.3
+MPSH 2,2026-01-22,Thursday,8,4,0,0.1
+MPSH 2,2026-01-22,Thursday,9,4,1,0.3
+MPSH 2,2026-01-22,Thursday,10,4,2,0.4
+MPSH 2,2026-01-22,Thursday,11,4,1,0.2
+MPSH 2,2026-01-22,Thursday,12,4,1,0.1
+MPSH 2,2026-01-22,Thursday,13,4,1,0.2
+MPSH 2,2026-01-22,Thursday,14,4,1,0.3
+MPSH 2,2026-01-22,Thursday,15,4,2,0.4
+MPSH 2,2026-01-22,Thursday,16,4,1,0.2
+MPSH 2,2026-01-22,Thursday,17,4,1,0.2
+MPSH 2,2026-01-22,Thursday,18,4,3,0.7
+MPSH 2,2026-01-22,Thursday,19,4,3,0.8
+MPSH 2,2026-01-22,Thursday,20,4,4,0.9
+MPSH 2,2026-01-22,Thursday,21,4,1,0.4
+MPSH 2,2026-01-22,Thursday,22,4,0,0.1
+MPSH 2,2026-01-23,Friday,7,4,2,0.5
+MPSH 2,2026-01-23,Friday,8,4,1,0.3
+MPSH 2,2026-01-23,Friday,9,4,1,0.2
+MPSH 2,2026-01-23,Friday,10,4,1,0.3
+MPSH 2,2026-01-23,Friday,11,4,1,0.1
+MPSH 2,2026-01-23,Friday,12,4,0,0.1
+MPSH 2,2026-01-23,Friday,13,4,1,0.1
+MPSH 2,2026-01-23,Friday,14,4,1,0.2
+MPSH 2,2026-01-23,Friday,15,4,1,0.3
+MPSH 2,2026-01-23,Friday,16,4,2,0.5
+MPSH 2,2026-01-23,Friday,17,4,1,0.2
+MPSH 2,2026-01-23,Friday,18,4,3,0.6
+MPSH 2,2026-01-23,Friday,19,4,2,0.6
+MPSH 2,2026-01-23,Friday,20,4,3,0.9
+MPSH 2,2026-01-23,Friday,21,4,2,0.4
+MPSH 2,2026-01-23,Friday,22,4,1,0.3
+UTown Sports Hall,2025-12-25,Thursday,7,8,1,0.1
+UTown Sports Hall,2025-12-25,Thursday,8,8,2,0.2
+UTown Sports Hall,2025-12-25,Thursday,9,8,1,0.1
+UTown Sports Hall,2025-12-25,Thursday,10,8,3,0.3
+UTown Sports Hall,2025-12-25,Thursday,11,8,4,0.4
+UTown Sports Hall,2025-12-25,Thursday,12,8,1,0.2
+UTown Sports Hall,2025-12-25,Thursday,13,8,4,0.5
+UTown Sports Hall,2025-12-25,Thursday,14,8,1,0.1
+UTown Sports Hall,2025-12-25,Thursday,15,8,4,0.5
+UTown Sports Hall,2025-12-25,Thursday,16,8,1,0.1
+UTown Sports Hall,2025-12-25,Thursday,17,8,4,0.5
+UTown Sports Hall,2025-12-25,Thursday,18,8,7,0.9
+UTown Sports Hall,2025-12-25,Thursday,19,8,6,0.8
+UTown Sports Hall,2025-12-25,Thursday,20,8,5,0.7
+UTown Sports Hall,2025-12-25,Thursday,21,8,3,0.4
+UTown Sports Hall,2025-12-25,Thursday,22,8,4,0.5
+UTown Sports Hall,2025-12-26,Friday,7,8,4,0.4
+UTown Sports Hall,2025-12-26,Friday,8,8,3,0.3
+UTown Sports Hall,2025-12-26,Friday,9,8,4,0.5
+UTown Sports Hall,2025-12-26,Friday,10,8,2,0.3
+UTown Sports Hall,2025-12-26,Friday,11,8,1,0.2
+UTown Sports Hall,2025-12-26,Friday,12,8,4,0.5
+UTown Sports Hall,2025-12-26,Friday,13,8,3,0.4
+UTown Sports Hall,2025-12-26,Friday,14,8,1,0.1
+UTown Sports Hall,2025-12-26,Friday,15,8,4,0.4
+UTown Sports Hall,2025-12-26,Friday,16,8,2,0.2
+UTown Sports Hall,2025-12-26,Friday,17,8,2,0.2
+UTown Sports Hall,2025-12-26,Friday,18,8,7,0.8
+UTown Sports Hall,2025-12-26,Friday,19,8,7,0.9
+UTown Sports Hall,2025-12-26,Friday,20,8,5,0.7
+UTown Sports Hall,2025-12-26,Friday,21,8,2,0.2
+UTown Sports Hall,2025-12-26,Friday,22,8,2,0.3
+UTown Sports Hall,2025-12-27,Saturday,7,8,4,0.5
+UTown Sports Hall,2025-12-27,Saturday,8,8,4,0.5
+UTown Sports Hall,2025-12-27,Saturday,9,8,5,0.6
+UTown Sports Hall,2025-12-27,Saturday,10,8,3,0.4
+UTown Sports Hall,2025-12-27,Saturday,11,8,5,0.7
+UTown Sports Hall,2025-12-27,Saturday,12,8,3,0.4
+UTown Sports Hall,2025-12-27,Saturday,13,8,3,0.4
+UTown Sports Hall,2025-12-27,Saturday,14,8,5,0.6
+UTown Sports Hall,2025-12-27,Saturday,15,8,4,0.5
+UTown Sports Hall,2025-12-27,Saturday,16,8,4,0.5
+UTown Sports Hall,2025-12-27,Saturday,17,8,4,0.6
+UTown Sports Hall,2025-12-27,Saturday,18,8,7,0.8
+UTown Sports Hall,2025-12-27,Saturday,19,8,8,1.0
+UTown Sports Hall,2025-12-27,Saturday,20,8,6,0.7
+UTown Sports Hall,2025-12-27,Saturday,21,8,3,0.4
+UTown Sports Hall,2025-12-27,Saturday,22,8,3,0.3
+UTown Sports Hall,2025-12-28,Sunday,7,8,5,0.7
+UTown Sports Hall,2025-12-28,Sunday,8,8,6,0.7
+UTown Sports Hall,2025-12-28,Sunday,9,8,4,0.5
+UTown Sports Hall,2025-12-28,Sunday,10,8,5,0.7
+UTown Sports Hall,2025-12-28,Sunday,11,8,4,0.5
+UTown Sports Hall,2025-12-28,Sunday,12,8,3,0.3
+UTown Sports Hall,2025-12-28,Sunday,13,8,3,0.4
+UTown Sports Hall,2025-12-28,Sunday,14,8,3,0.3
+UTown Sports Hall,2025-12-28,Sunday,15,8,3,0.4
+UTown Sports Hall,2025-12-28,Sunday,16,8,5,0.6
+UTown Sports Hall,2025-12-28,Sunday,17,8,3,0.4
+UTown Sports Hall,2025-12-28,Sunday,18,8,7,0.8
+UTown Sports Hall,2025-12-28,Sunday,19,8,7,0.9
+UTown Sports Hall,2025-12-28,Sunday,20,8,8,1.0
+UTown Sports Hall,2025-12-28,Sunday,21,8,4,0.5
+UTown Sports Hall,2025-12-28,Sunday,22,8,4,0.6
+UTown Sports Hall,2025-12-29,Monday,7,8,3,0.4
+UTown Sports Hall,2025-12-29,Monday,8,8,3,0.4
+UTown Sports Hall,2025-12-29,Monday,9,8,2,0.2
+UTown Sports Hall,2025-12-29,Monday,10,8,2,0.3
+UTown Sports Hall,2025-12-29,Monday,11,8,2,0.3
+UTown Sports Hall,2025-12-29,Monday,12,8,1,0.2
+UTown Sports Hall,2025-12-29,Monday,13,8,2,0.2
+UTown Sports Hall,2025-12-29,Monday,14,8,4,0.5
+UTown Sports Hall,2025-12-29,Monday,15,8,1,0.2
+UTown Sports Hall,2025-12-29,Monday,16,8,1,0.1
+UTown Sports Hall,2025-12-29,Monday,17,8,2,0.2
+UTown Sports Hall,2025-12-29,Monday,18,8,7,0.9
+UTown Sports Hall,2025-12-29,Monday,19,8,5,0.6
+UTown Sports Hall,2025-12-29,Monday,20,8,4,0.5
+UTown Sports Hall,2025-12-29,Monday,21,8,1,0.2
+UTown Sports Hall,2025-12-29,Monday,22,8,4,0.5
+UTown Sports Hall,2025-12-30,Tuesday,7,8,1,0.1
+UTown Sports Hall,2025-12-30,Tuesday,8,8,2,0.3
+UTown Sports Hall,2025-12-30,Tuesday,9,8,2,0.3
+UTown Sports Hall,2025-12-30,Tuesday,10,8,2,0.3
+UTown Sports Hall,2025-12-30,Tuesday,11,8,4,0.5
+UTown Sports Hall,2025-12-30,Tuesday,12,8,3,0.4
+UTown Sports Hall,2025-12-30,Tuesday,13,8,3,0.4
+UTown Sports Hall,2025-12-30,Tuesday,14,8,2,0.2
+UTown Sports Hall,2025-12-30,Tuesday,15,8,2,0.2
+UTown Sports Hall,2025-12-30,Tuesday,16,8,4,0.5
+UTown Sports Hall,2025-12-30,Tuesday,17,8,1,0.1
+UTown Sports Hall,2025-12-30,Tuesday,18,8,5,0.7
+UTown Sports Hall,2025-12-30,Tuesday,19,8,5,0.7
+UTown Sports Hall,2025-12-30,Tuesday,20,8,6,0.8
+UTown Sports Hall,2025-12-30,Tuesday,21,8,2,0.3
+UTown Sports Hall,2025-12-30,Tuesday,22,8,4,0.5
+UTown Sports Hall,2025-12-31,Wednesday,7,8,2,0.3
+UTown Sports Hall,2025-12-31,Wednesday,8,8,2,0.3
+UTown Sports Hall,2025-12-31,Wednesday,9,8,1,0.2
+UTown Sports Hall,2025-12-31,Wednesday,10,8,3,0.4
+UTown Sports Hall,2025-12-31,Wednesday,11,8,2,0.3
+UTown Sports Hall,2025-12-31,Wednesday,12,8,2,0.3
+UTown Sports Hall,2025-12-31,Wednesday,13,8,3,0.4
+UTown Sports Hall,2025-12-31,Wednesday,14,8,3,0.4
+UTown Sports Hall,2025-12-31,Wednesday,15,8,4,0.5
+UTown Sports Hall,2025-12-31,Wednesday,16,8,2,0.2
+UTown Sports Hall,2025-12-31,Wednesday,17,8,3,0.4
+UTown Sports Hall,2025-12-31,Wednesday,18,8,5,0.6
+UTown Sports Hall,2025-12-31,Wednesday,19,8,5,0.6
+UTown Sports Hall,2025-12-31,Wednesday,20,8,5,0.7
+UTown Sports Hall,2025-12-31,Wednesday,21,8,2,0.2
+UTown Sports Hall,2025-12-31,Wednesday,22,8,3,0.3
+UTown Sports Hall,2026-01-01,Thursday,7,8,2,0.2
+UTown Sports Hall,2026-01-01,Thursday,8,8,2,0.2
+UTown Sports Hall,2026-01-01,Thursday,9,8,3,0.4
+UTown Sports Hall,2026-01-01,Thursday,10,8,3,0.3
+UTown Sports Hall,2026-01-01,Thursday,11,8,2,0.3
+UTown Sports Hall,2026-01-01,Thursday,12,8,4,0.5
+UTown Sports Hall,2026-01-01,Thursday,13,8,1,0.1
+UTown Sports Hall,2026-01-01,Thursday,14,8,2,0.2
+UTown Sports Hall,2026-01-01,Thursday,15,8,3,0.4
+UTown Sports Hall,2026-01-01,Thursday,16,8,2,0.2
+UTown Sports Hall,2026-01-01,Thursday,17,8,2,0.3
+UTown Sports Hall,2026-01-01,Thursday,18,8,5,0.7
+UTown Sports Hall,2026-01-01,Thursday,19,8,5,0.7
+UTown Sports Hall,2026-01-01,Thursday,20,8,5,0.7
+UTown Sports Hall,2026-01-01,Thursday,21,8,3,0.4
+UTown Sports Hall,2026-01-01,Thursday,22,8,2,0.3
+UTown Sports Hall,2026-01-02,Friday,7,8,2,0.2
+UTown Sports Hall,2026-01-02,Friday,8,8,3,0.3
+UTown Sports Hall,2026-01-02,Friday,9,8,1,0.1
+UTown Sports Hall,2026-01-02,Friday,10,8,3,0.4
+UTown Sports Hall,2026-01-02,Friday,11,8,2,0.3
+UTown Sports Hall,2026-01-02,Friday,12,8,1,0.1
+UTown Sports Hall,2026-01-02,Friday,13,8,3,0.4
+UTown Sports Hall,2026-01-02,Friday,14,8,4,0.5
+UTown Sports Hall,2026-01-02,Friday,15,8,3,0.3
+UTown Sports Hall,2026-01-02,Friday,16,8,3,0.3
+UTown Sports Hall,2026-01-02,Friday,17,8,2,0.2
+UTown Sports Hall,2026-01-02,Friday,18,8,7,0.8
+UTown Sports Hall,2026-01-02,Friday,19,8,6,0.8
+UTown Sports Hall,2026-01-02,Friday,20,8,6,0.7
+UTown Sports Hall,2026-01-02,Friday,21,8,1,0.1
+UTown Sports Hall,2026-01-02,Friday,22,8,2,0.3
+UTown Sports Hall,2026-01-03,Saturday,7,8,5,0.6
+UTown Sports Hall,2026-01-03,Saturday,8,8,6,0.7
+UTown Sports Hall,2026-01-03,Saturday,9,8,3,0.4
+UTown Sports Hall,2026-01-03,Saturday,10,8,5,0.6
+UTown Sports Hall,2026-01-03,Saturday,11,8,3,0.3
+UTown Sports Hall,2026-01-03,Saturday,12,8,3,0.4
+UTown Sports Hall,2026-01-03,Saturday,13,8,3,0.4
+UTown Sports Hall,2026-01-03,Saturday,14,8,4,0.5
+UTown Sports Hall,2026-01-03,Saturday,15,8,4,0.5
+UTown Sports Hall,2026-01-03,Saturday,16,8,4,0.5
+UTown Sports Hall,2026-01-03,Saturday,17,8,5,0.7
+UTown Sports Hall,2026-01-03,Saturday,18,8,8,0.9
+UTown Sports Hall,2026-01-03,Saturday,19,8,8,1.0
+UTown Sports Hall,2026-01-03,Saturday,20,8,7,0.8
+UTown Sports Hall,2026-01-03,Saturday,21,8,5,0.6
+UTown Sports Hall,2026-01-03,Saturday,22,8,2,0.3
+UTown Sports Hall,2026-01-04,Sunday,7,8,3,0.4
+UTown Sports Hall,2026-01-04,Sunday,8,8,4,0.5
+UTown Sports Hall,2026-01-04,Sunday,9,8,2,0.3
+UTown Sports Hall,2026-01-04,Sunday,10,8,5,0.7
+UTown Sports Hall,2026-01-04,Sunday,11,8,5,0.7
+UTown Sports Hall,2026-01-04,Sunday,12,8,4,0.6
+UTown Sports Hall,2026-01-04,Sunday,13,8,5,0.6
+UTown Sports Hall,2026-01-04,Sunday,14,8,3,0.4
+UTown Sports Hall,2026-01-04,Sunday,15,8,3,0.4
+UTown Sports Hall,2026-01-04,Sunday,16,8,3,0.3
+UTown Sports Hall,2026-01-04,Sunday,17,8,4,0.5
+UTown Sports Hall,2026-01-04,Sunday,18,8,7,0.9
+UTown Sports Hall,2026-01-04,Sunday,19,8,7,0.9
+UTown Sports Hall,2026-01-04,Sunday,20,8,6,0.7
+UTown Sports Hall,2026-01-04,Sunday,21,8,5,0.6
+UTown Sports Hall,2026-01-04,Sunday,22,8,3,0.3
+UTown Sports Hall,2026-01-05,Monday,7,8,1,0.2
+UTown Sports Hall,2026-01-05,Monday,8,8,1,0.1
+UTown Sports Hall,2026-01-05,Monday,9,8,1,0.1
+UTown Sports Hall,2026-01-05,Monday,10,8,3,0.4
+UTown Sports Hall,2026-01-05,Monday,11,8,1,0.2
+UTown Sports Hall,2026-01-05,Monday,12,8,2,0.3
+UTown Sports Hall,2026-01-05,Monday,13,8,3,0.4
+UTown Sports Hall,2026-01-05,Monday,14,8,1,0.1
+UTown Sports Hall,2026-01-05,Monday,15,8,1,0.1
+UTown Sports Hall,2026-01-05,Monday,16,8,2,0.3
+UTown Sports Hall,2026-01-05,Monday,17,8,1,0.2
+UTown Sports Hall,2026-01-05,Monday,18,8,7,0.8
+UTown Sports Hall,2026-01-05,Monday,19,8,5,0.6
+UTown Sports Hall,2026-01-05,Monday,20,8,4,0.5
+UTown Sports Hall,2026-01-05,Monday,21,8,1,0.1
+UTown Sports Hall,2026-01-05,Monday,22,8,3,0.3
+UTown Sports Hall,2026-01-06,Tuesday,7,8,2,0.2
+UTown Sports Hall,2026-01-06,Tuesday,8,8,2,0.3
+UTown Sports Hall,2026-01-06,Tuesday,9,8,3,0.4
+UTown Sports Hall,2026-01-06,Tuesday,10,8,1,0.2
+UTown Sports Hall,2026-01-06,Tuesday,11,8,3,0.4
+UTown Sports Hall,2026-01-06,Tuesday,12,8,1,0.1
+UTown Sports Hall,2026-01-06,Tuesday,13,8,2,0.3
+UTown Sports Hall,2026-01-06,Tuesday,14,8,2,0.3
+UTown Sports Hall,2026-01-06,Tuesday,15,8,3,0.4
+UTown Sports Hall,2026-01-06,Tuesday,16,8,1,0.1
+UTown Sports Hall,2026-01-06,Tuesday,17,8,4,0.5
+UTown Sports Hall,2026-01-06,Tuesday,18,8,5,0.6
+UTown Sports Hall,2026-01-06,Tuesday,19,8,6,0.7
+UTown Sports Hall,2026-01-06,Tuesday,20,8,4,0.5
+UTown Sports Hall,2026-01-06,Tuesday,21,8,2,0.2
+UTown Sports Hall,2026-01-06,Tuesday,22,8,1,0.1
+UTown Sports Hall,2026-01-07,Wednesday,7,8,4,0.4
+UTown Sports Hall,2026-01-07,Wednesday,8,8,3,0.4
+UTown Sports Hall,2026-01-07,Wednesday,9,8,2,0.2
+UTown Sports Hall,2026-01-07,Wednesday,10,8,1,0.2
+UTown Sports Hall,2026-01-07,Wednesday,11,8,3,0.4
+UTown Sports Hall,2026-01-07,Wednesday,12,8,4,0.5
+UTown Sports Hall,2026-01-07,Wednesday,13,8,3,0.4
+UTown Sports Hall,2026-01-07,Wednesday,14,8,2,0.3
+UTown Sports Hall,2026-01-07,Wednesday,15,8,4,0.4
+UTown Sports Hall,2026-01-07,Wednesday,16,8,3,0.4
+UTown Sports Hall,2026-01-07,Wednesday,17,8,4,0.5
+UTown Sports Hall,2026-01-07,Wednesday,18,8,7,0.8
+UTown Sports Hall,2026-01-07,Wednesday,19,8,7,0.8
+UTown Sports Hall,2026-01-07,Wednesday,20,8,7,0.9
+UTown Sports Hall,2026-01-07,Wednesday,21,8,2,0.2
+UTown Sports Hall,2026-01-07,Wednesday,22,8,3,0.4
+UTown Sports Hall,2026-01-08,Thursday,7,8,2,0.2
+UTown Sports Hall,2026-01-08,Thursday,8,8,3,0.3
+UTown Sports Hall,2026-01-08,Thursday,9,8,3,0.4
+UTown Sports Hall,2026-01-08,Thursday,10,8,4,0.5
+UTown Sports Hall,2026-01-08,Thursday,11,8,1,0.2
+UTown Sports Hall,2026-01-08,Thursday,12,8,2,0.3
+UTown Sports Hall,2026-01-08,Thursday,13,8,2,0.2
+UTown Sports Hall,2026-01-08,Thursday,14,8,1,0.1
+UTown Sports Hall,2026-01-08,Thursday,15,8,3,0.3
+UTown Sports Hall,2026-01-08,Thursday,16,8,3,0.3
+UTown Sports Hall,2026-01-08,Thursday,17,8,3,0.4
+UTown Sports Hall,2026-01-08,Thursday,18,8,6,0.7
+UTown Sports Hall,2026-01-08,Thursday,19,8,5,0.6
+UTown Sports Hall,2026-01-08,Thursday,20,8,4,0.5
+UTown Sports Hall,2026-01-08,Thursday,21,8,2,0.3
+UTown Sports Hall,2026-01-08,Thursday,22,8,2,0.3
+UTown Sports Hall,2026-01-09,Friday,7,8,2,0.2
+UTown Sports Hall,2026-01-09,Friday,8,8,2,0.3
+UTown Sports Hall,2026-01-09,Friday,9,8,1,0.2
+UTown Sports Hall,2026-01-09,Friday,10,8,1,0.2
+UTown Sports Hall,2026-01-09,Friday,11,8,1,0.1
+UTown Sports Hall,2026-01-09,Friday,12,8,4,0.5
+UTown Sports Hall,2026-01-09,Friday,13,8,3,0.4
+UTown Sports Hall,2026-01-09,Friday,14,8,2,0.2
+UTown Sports Hall,2026-01-09,Friday,15,8,3,0.3
+UTown Sports Hall,2026-01-09,Friday,16,8,4,0.5
+UTown Sports Hall,2026-01-09,Friday,17,8,1,0.1
+UTown Sports Hall,2026-01-09,Friday,18,8,7,0.9
+UTown Sports Hall,2026-01-09,Friday,19,8,5,0.6
+UTown Sports Hall,2026-01-09,Friday,20,8,6,0.7
+UTown Sports Hall,2026-01-09,Friday,21,8,2,0.3
+UTown Sports Hall,2026-01-09,Friday,22,8,2,0.3
+UTown Sports Hall,2026-01-10,Saturday,7,8,4,0.5
+UTown Sports Hall,2026-01-10,Saturday,8,8,5,0.6
+UTown Sports Hall,2026-01-10,Saturday,9,8,4,0.5
+UTown Sports Hall,2026-01-10,Saturday,10,8,4,0.5
+UTown Sports Hall,2026-01-10,Saturday,11,8,3,0.4
+UTown Sports Hall,2026-01-10,Saturday,12,8,6,0.7
+UTown Sports Hall,2026-01-10,Saturday,13,8,4,0.5
+UTown Sports Hall,2026-01-10,Saturday,14,8,5,0.6
+UTown Sports Hall,2026-01-10,Saturday,15,8,3,0.4
+UTown Sports Hall,2026-01-10,Saturday,16,8,4,0.5
+UTown Sports Hall,2026-01-10,Saturday,17,8,3,0.4
+UTown Sports Hall,2026-01-10,Saturday,18,8,7,0.9
+UTown Sports Hall,2026-01-10,Saturday,19,8,7,0.9
+UTown Sports Hall,2026-01-10,Saturday,20,8,6,0.8
+UTown Sports Hall,2026-01-10,Saturday,21,8,4,0.6
+UTown Sports Hall,2026-01-10,Saturday,22,8,5,0.7
+UTown Sports Hall,2026-01-11,Sunday,7,8,4,0.5
+UTown Sports Hall,2026-01-11,Sunday,8,8,4,0.5
+UTown Sports Hall,2026-01-11,Sunday,9,8,4,0.5
+UTown Sports Hall,2026-01-11,Sunday,10,8,5,0.7
+UTown Sports Hall,2026-01-11,Sunday,11,8,4,0.5
+UTown Sports Hall,2026-01-11,Sunday,12,8,5,0.6
+UTown Sports Hall,2026-01-11,Sunday,13,8,4,0.5
+UTown Sports Hall,2026-01-11,Sunday,14,8,5,0.6
+UTown Sports Hall,2026-01-11,Sunday,15,8,4,0.5
+UTown Sports Hall,2026-01-11,Sunday,16,8,5,0.6
+UTown Sports Hall,2026-01-11,Sunday,17,8,5,0.7
+UTown Sports Hall,2026-01-11,Sunday,18,8,8,1.0
+UTown Sports Hall,2026-01-11,Sunday,19,8,6,0.8
+UTown Sports Hall,2026-01-11,Sunday,20,8,8,1.0
+UTown Sports Hall,2026-01-11,Sunday,21,8,3,0.4
+UTown Sports Hall,2026-01-11,Sunday,22,8,5,0.7
+UTown Sports Hall,2026-01-12,Monday,7,8,2,0.2
+UTown Sports Hall,2026-01-12,Monday,8,8,1,0.1
+UTown Sports Hall,2026-01-12,Monday,9,8,3,0.4
+UTown Sports Hall,2026-01-12,Monday,10,8,2,0.3
+UTown Sports Hall,2026-01-12,Monday,11,8,4,0.5
+UTown Sports Hall,2026-01-12,Monday,12,8,3,0.4
+UTown Sports Hall,2026-01-12,Monday,13,8,3,0.4
+UTown Sports Hall,2026-01-12,Monday,14,8,1,0.1
+UTown Sports Hall,2026-01-12,Monday,15,8,4,0.5
+UTown Sports Hall,2026-01-12,Monday,16,8,3,0.3
+UTown Sports Hall,2026-01-12,Monday,17,8,1,0.1
+UTown Sports Hall,2026-01-12,Monday,18,8,6,0.8
+UTown Sports Hall,2026-01-12,Monday,19,8,6,0.8
+UTown Sports Hall,2026-01-12,Monday,20,8,6,0.8
+UTown Sports Hall,2026-01-12,Monday,21,8,3,0.4
+UTown Sports Hall,2026-01-12,Monday,22,8,2,0.2
+UTown Sports Hall,2026-01-13,Tuesday,7,8,3,0.4
+UTown Sports Hall,2026-01-13,Tuesday,8,8,3,0.4
+UTown Sports Hall,2026-01-13,Tuesday,9,8,1,0.1
+UTown Sports Hall,2026-01-13,Tuesday,10,8,3,0.3
+UTown Sports Hall,2026-01-13,Tuesday,11,8,3,0.4
+UTown Sports Hall,2026-01-13,Tuesday,12,8,3,0.4
+UTown Sports Hall,2026-01-13,Tuesday,13,8,2,0.2
+UTown Sports Hall,2026-01-13,Tuesday,14,8,3,0.3
+UTown Sports Hall,2026-01-13,Tuesday,15,8,2,0.3
+UTown Sports Hall,2026-01-13,Tuesday,16,8,3,0.4
+UTown Sports Hall,2026-01-13,Tuesday,17,8,3,0.3
+UTown Sports Hall,2026-01-13,Tuesday,18,8,7,0.8
+UTown Sports Hall,2026-01-13,Tuesday,19,8,5,0.7
+UTown Sports Hall,2026-01-13,Tuesday,20,8,6,0.8
+UTown Sports Hall,2026-01-13,Tuesday,21,8,3,0.4
+UTown Sports Hall,2026-01-13,Tuesday,22,8,4,0.5
+UTown Sports Hall,2026-01-14,Wednesday,7,8,1,0.2
+UTown Sports Hall,2026-01-14,Wednesday,8,8,2,0.2
+UTown Sports Hall,2026-01-14,Wednesday,9,8,2,0.3
+UTown Sports Hall,2026-01-14,Wednesday,10,8,2,0.2
+UTown Sports Hall,2026-01-14,Wednesday,11,8,2,0.2
+UTown Sports Hall,2026-01-14,Wednesday,12,8,2,0.2
+UTown Sports Hall,2026-01-14,Wednesday,13,8,1,0.1
+UTown Sports Hall,2026-01-14,Wednesday,14,8,4,0.5
+UTown Sports Hall,2026-01-14,Wednesday,15,8,3,0.4
+UTown Sports Hall,2026-01-14,Wednesday,16,8,3,0.3
+UTown Sports Hall,2026-01-14,Wednesday,17,8,2,0.2
+UTown Sports Hall,2026-01-14,Wednesday,18,8,5,0.6
+UTown Sports Hall,2026-01-14,Wednesday,19,8,5,0.6
+UTown Sports Hall,2026-01-14,Wednesday,20,8,4,0.5
+UTown Sports Hall,2026-01-14,Wednesday,21,8,2,0.2
+UTown Sports Hall,2026-01-14,Wednesday,22,8,2,0.2
+UTown Sports Hall,2026-01-15,Thursday,7,8,3,0.4
+UTown Sports Hall,2026-01-15,Thursday,8,8,1,0.1
+UTown Sports Hall,2026-01-15,Thursday,9,8,3,0.3
+UTown Sports Hall,2026-01-15,Thursday,10,8,1,0.2
+UTown Sports Hall,2026-01-15,Thursday,11,8,1,0.1
+UTown Sports Hall,2026-01-15,Thursday,12,8,2,0.3
+UTown Sports Hall,2026-01-15,Thursday,13,8,2,0.2
+UTown Sports Hall,2026-01-15,Thursday,14,8,1,0.2
+UTown Sports Hall,2026-01-15,Thursday,15,8,2,0.2
+UTown Sports Hall,2026-01-15,Thursday,16,8,1,0.2
+UTown Sports Hall,2026-01-15,Thursday,17,8,3,0.4
+UTown Sports Hall,2026-01-15,Thursday,18,8,6,0.7
+UTown Sports Hall,2026-01-15,Thursday,19,8,6,0.8
+UTown Sports Hall,2026-01-15,Thursday,20,8,6,0.7
+UTown Sports Hall,2026-01-15,Thursday,21,8,3,0.3
+UTown Sports Hall,2026-01-15,Thursday,22,8,3,0.4
+UTown Sports Hall,2026-01-16,Friday,7,8,4,0.4
+UTown Sports Hall,2026-01-16,Friday,8,8,1,0.2
+UTown Sports Hall,2026-01-16,Friday,9,8,2,0.2
+UTown Sports Hall,2026-01-16,Friday,10,8,2,0.3
+UTown Sports Hall,2026-01-16,Friday,11,8,2,0.3
+UTown Sports Hall,2026-01-16,Friday,12,8,2,0.3
+UTown Sports Hall,2026-01-16,Friday,13,8,2,0.3
+UTown Sports Hall,2026-01-16,Friday,14,8,3,0.3
+UTown Sports Hall,2026-01-16,Friday,15,8,3,0.4
+UTown Sports Hall,2026-01-16,Friday,16,8,4,0.5
+UTown Sports Hall,2026-01-16,Friday,17,8,2,0.2
+UTown Sports Hall,2026-01-16,Friday,18,8,6,0.7
+UTown Sports Hall,2026-01-16,Friday,19,8,6,0.8
+UTown Sports Hall,2026-01-16,Friday,20,8,6,0.7
+UTown Sports Hall,2026-01-16,Friday,21,8,4,0.5
+UTown Sports Hall,2026-01-16,Friday,22,8,3,0.3
+UTown Sports Hall,2026-01-17,Saturday,7,8,3,0.3
+UTown Sports Hall,2026-01-17,Saturday,8,8,3,0.4
+UTown Sports Hall,2026-01-17,Saturday,9,8,5,0.6
+UTown Sports Hall,2026-01-17,Saturday,10,8,3,0.3
+UTown Sports Hall,2026-01-17,Saturday,11,8,3,0.4
+UTown Sports Hall,2026-01-17,Saturday,12,8,3,0.4
+UTown Sports Hall,2026-01-17,Saturday,13,8,5,0.6
+UTown Sports Hall,2026-01-17,Saturday,14,8,5,0.6
+UTown Sports Hall,2026-01-17,Saturday,15,8,3,0.3
+UTown Sports Hall,2026-01-17,Saturday,16,8,5,0.6
+UTown Sports Hall,2026-01-17,Saturday,17,8,4,0.5
+UTown Sports Hall,2026-01-17,Saturday,18,8,6,0.7
+UTown Sports Hall,2026-01-17,Saturday,19,8,6,0.8
+UTown Sports Hall,2026-01-17,Saturday,20,8,7,0.8
+UTown Sports Hall,2026-01-17,Saturday,21,8,4,0.5
+UTown Sports Hall,2026-01-17,Saturday,22,8,4,0.5
+UTown Sports Hall,2026-01-18,Sunday,7,8,5,0.6
+UTown Sports Hall,2026-01-18,Sunday,8,8,4,0.5
+UTown Sports Hall,2026-01-18,Sunday,9,8,4,0.5
+UTown Sports Hall,2026-01-18,Sunday,10,8,4,0.6
+UTown Sports Hall,2026-01-18,Sunday,11,8,5,0.6
+UTown Sports Hall,2026-01-18,Sunday,12,8,3,0.4
+UTown Sports Hall,2026-01-18,Sunday,13,8,5,0.6
+UTown Sports Hall,2026-01-18,Sunday,14,8,5,0.6
+UTown Sports Hall,2026-01-18,Sunday,15,8,3,0.3
+UTown Sports Hall,2026-01-18,Sunday,16,8,4,0.5
+UTown Sports Hall,2026-01-18,Sunday,17,8,3,0.4
+UTown Sports Hall,2026-01-18,Sunday,18,8,7,0.9
+UTown Sports Hall,2026-01-18,Sunday,19,8,8,1.0
+UTown Sports Hall,2026-01-18,Sunday,20,8,7,0.8
+UTown Sports Hall,2026-01-18,Sunday,21,8,4,0.5
+UTown Sports Hall,2026-01-18,Sunday,22,8,4,0.5
+UTown Sports Hall,2026-01-19,Monday,7,8,2,0.2
+UTown Sports Hall,2026-01-19,Monday,8,8,3,0.3
+UTown Sports Hall,2026-01-19,Monday,9,8,1,0.2
+UTown Sports Hall,2026-01-19,Monday,10,8,1,0.2
+UTown Sports Hall,2026-01-19,Monday,11,8,2,0.2
+UTown Sports Hall,2026-01-19,Monday,12,8,4,0.5
+UTown Sports Hall,2026-01-19,Monday,13,8,4,0.5
+UTown Sports Hall,2026-01-19,Monday,14,8,2,0.2
+UTown Sports Hall,2026-01-19,Monday,15,8,1,0.1
+UTown Sports Hall,2026-01-19,Monday,16,8,1,0.1
+UTown Sports Hall,2026-01-19,Monday,17,8,1,0.2
+UTown Sports Hall,2026-01-19,Monday,18,8,6,0.7
+UTown Sports Hall,2026-01-19,Monday,19,8,4,0.5
+UTown Sports Hall,2026-01-19,Monday,20,8,5,0.6
+UTown Sports Hall,2026-01-19,Monday,21,8,2,0.3
+UTown Sports Hall,2026-01-19,Monday,22,8,3,0.4
+UTown Sports Hall,2026-01-20,Tuesday,7,8,3,0.4
+UTown Sports Hall,2026-01-20,Tuesday,8,8,3,0.3
+UTown Sports Hall,2026-01-20,Tuesday,9,8,2,0.3
+UTown Sports Hall,2026-01-20,Tuesday,10,8,4,0.5
+UTown Sports Hall,2026-01-20,Tuesday,11,8,2,0.2
+UTown Sports Hall,2026-01-20,Tuesday,12,8,4,0.5
+UTown Sports Hall,2026-01-20,Tuesday,13,8,3,0.3
+UTown Sports Hall,2026-01-20,Tuesday,14,8,3,0.4
+UTown Sports Hall,2026-01-20,Tuesday,15,8,1,0.1
+UTown Sports Hall,2026-01-20,Tuesday,16,8,1,0.1
+UTown Sports Hall,2026-01-20,Tuesday,17,8,3,0.4
+UTown Sports Hall,2026-01-20,Tuesday,18,8,6,0.7
+UTown Sports Hall,2026-01-20,Tuesday,19,8,6,0.7
+UTown Sports Hall,2026-01-20,Tuesday,20,8,4,0.5
+UTown Sports Hall,2026-01-20,Tuesday,21,8,2,0.2
+UTown Sports Hall,2026-01-20,Tuesday,22,8,2,0.3
+UTown Sports Hall,2026-01-21,Wednesday,7,8,3,0.3
+UTown Sports Hall,2026-01-21,Wednesday,8,8,1,0.2
+UTown Sports Hall,2026-01-21,Wednesday,9,8,1,0.2
+UTown Sports Hall,2026-01-21,Wednesday,10,8,2,0.3
+UTown Sports Hall,2026-01-21,Wednesday,11,8,1,0.2
+UTown Sports Hall,2026-01-21,Wednesday,12,8,4,0.5
+UTown Sports Hall,2026-01-21,Wednesday,13,8,3,0.4
+UTown Sports Hall,2026-01-21,Wednesday,14,8,2,0.2
+UTown Sports Hall,2026-01-21,Wednesday,15,8,2,0.3
+UTown Sports Hall,2026-01-21,Wednesday,16,8,4,0.4
+UTown Sports Hall,2026-01-21,Wednesday,17,8,1,0.1
+UTown Sports Hall,2026-01-21,Wednesday,18,8,5,0.6
+UTown Sports Hall,2026-01-21,Wednesday,19,8,6,0.7
+UTown Sports Hall,2026-01-21,Wednesday,20,8,5,0.6
+UTown Sports Hall,2026-01-21,Wednesday,21,8,2,0.3
+UTown Sports Hall,2026-01-21,Wednesday,22,8,4,0.5
+UTown Sports Hall,2026-01-22,Thursday,7,8,1,0.1
+UTown Sports Hall,2026-01-22,Thursday,8,8,1,0.1
+UTown Sports Hall,2026-01-22,Thursday,9,8,2,0.2
+UTown Sports Hall,2026-01-22,Thursday,10,8,4,0.5
+UTown Sports Hall,2026-01-22,Thursday,11,8,1,0.2
+UTown Sports Hall,2026-01-22,Thursday,12,8,2,0.2
+UTown Sports Hall,2026-01-22,Thursday,13,8,1,0.2
+UTown Sports Hall,2026-01-22,Thursday,14,8,3,0.4
+UTown Sports Hall,2026-01-22,Thursday,15,8,3,0.3
+UTown Sports Hall,2026-01-22,Thursday,16,8,2,0.2
+UTown Sports Hall,2026-01-22,Thursday,17,8,1,0.1
+UTown Sports Hall,2026-01-22,Thursday,18,8,7,0.9
+UTown Sports Hall,2026-01-22,Thursday,19,8,6,0.7
+UTown Sports Hall,2026-01-22,Thursday,20,8,6,0.8
+UTown Sports Hall,2026-01-22,Thursday,21,8,2,0.2
+UTown Sports Hall,2026-01-22,Thursday,22,8,3,0.4
+UTown Sports Hall,2026-01-23,Friday,7,8,2,0.2
+UTown Sports Hall,2026-01-23,Friday,8,8,2,0.3
+UTown Sports Hall,2026-01-23,Friday,9,8,3,0.4
+UTown Sports Hall,2026-01-23,Friday,10,8,2,0.2
+UTown Sports Hall,2026-01-23,Friday,11,8,1,0.2
+UTown Sports Hall,2026-01-23,Friday,12,8,3,0.3
+UTown Sports Hall,2026-01-23,Friday,13,8,2,0.2
+UTown Sports Hall,2026-01-23,Friday,14,8,2,0.3
+UTown Sports Hall,2026-01-23,Friday,15,8,1,0.2
+UTown Sports Hall,2026-01-23,Friday,16,8,4,0.5
+UTown Sports Hall,2026-01-23,Friday,17,8,1,0.2
+UTown Sports Hall,2026-01-23,Friday,18,8,4,0.5
+UTown Sports Hall,2026-01-23,Friday,19,8,6,0.8
+UTown Sports Hall,2026-01-23,Friday,20,8,5,0.6
+UTown Sports Hall,2026-01-23,Friday,21,8,2,0.2
+UTown Sports Hall,2026-01-23,Friday,22,8,4,0.5
+Kent Ridge Hall,2025-12-25,Thursday,7,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,8,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,9,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,10,3,1,0.2
+Kent Ridge Hall,2025-12-25,Thursday,11,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,12,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,13,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,14,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,15,3,1,0.3
+Kent Ridge Hall,2025-12-25,Thursday,16,3,1,0.5
+Kent Ridge Hall,2025-12-25,Thursday,17,3,1,0.5
+Kent Ridge Hall,2025-12-25,Thursday,18,3,2,0.8
+Kent Ridge Hall,2025-12-25,Thursday,19,3,3,0.8
+Kent Ridge Hall,2025-12-25,Thursday,20,3,2,0.6
+Kent Ridge Hall,2025-12-25,Thursday,21,3,1,0.5
+Kent Ridge Hall,2025-12-25,Thursday,22,3,1,0.2
+Kent Ridge Hall,2025-12-26,Friday,7,3,1,0.2
+Kent Ridge Hall,2025-12-26,Friday,8,3,1,0.3
+Kent Ridge Hall,2025-12-26,Friday,9,3,1,0.4
+Kent Ridge Hall,2025-12-26,Friday,10,3,1,0.2
+Kent Ridge Hall,2025-12-26,Friday,11,3,1,0.2
+Kent Ridge Hall,2025-12-26,Friday,12,3,0,0.2
+Kent Ridge Hall,2025-12-26,Friday,13,3,1,0.4
+Kent Ridge Hall,2025-12-26,Friday,14,3,0,0.1
+Kent Ridge Hall,2025-12-26,Friday,15,3,1,0.3
+Kent Ridge Hall,2025-12-26,Friday,16,3,1,0.3
+Kent Ridge Hall,2025-12-26,Friday,17,3,1,0.3
+Kent Ridge Hall,2025-12-26,Friday,18,3,3,0.9
+Kent Ridge Hall,2025-12-26,Friday,19,3,2,0.6
+Kent Ridge Hall,2025-12-26,Friday,20,3,2,0.7
+Kent Ridge Hall,2025-12-26,Friday,21,3,1,0.5
+Kent Ridge Hall,2025-12-26,Friday,22,3,1,0.5
+Kent Ridge Hall,2025-12-27,Saturday,7,3,2,0.6
+Kent Ridge Hall,2025-12-27,Saturday,8,3,2,0.6
+Kent Ridge Hall,2025-12-27,Saturday,9,3,2,0.5
+Kent Ridge Hall,2025-12-27,Saturday,10,3,2,0.7
+Kent Ridge Hall,2025-12-27,Saturday,11,3,1,0.4
+Kent Ridge Hall,2025-12-27,Saturday,12,3,1,0.3
+Kent Ridge Hall,2025-12-27,Saturday,13,3,2,0.5
+Kent Ridge Hall,2025-12-27,Saturday,14,3,2,0.7
+Kent Ridge Hall,2025-12-27,Saturday,15,3,1,0.5
+Kent Ridge Hall,2025-12-27,Saturday,16,3,1,0.3
+Kent Ridge Hall,2025-12-27,Saturday,17,3,2,0.5
+Kent Ridge Hall,2025-12-27,Saturday,18,3,3,1.0
+Kent Ridge Hall,2025-12-27,Saturday,19,3,3,0.9
+Kent Ridge Hall,2025-12-27,Saturday,20,3,3,1.0
+Kent Ridge Hall,2025-12-27,Saturday,21,3,2,0.6
+Kent Ridge Hall,2025-12-27,Saturday,22,3,2,0.6
+Kent Ridge Hall,2025-12-28,Sunday,7,3,2,0.6
+Kent Ridge Hall,2025-12-28,Sunday,8,3,1,0.4
+Kent Ridge Hall,2025-12-28,Sunday,9,3,1,0.5
+Kent Ridge Hall,2025-12-28,Sunday,10,3,2,0.6
+Kent Ridge Hall,2025-12-28,Sunday,11,3,1,0.4
+Kent Ridge Hall,2025-12-28,Sunday,12,3,2,0.6
+Kent Ridge Hall,2025-12-28,Sunday,13,3,1,0.5
+Kent Ridge Hall,2025-12-28,Sunday,14,3,1,0.4
+Kent Ridge Hall,2025-12-28,Sunday,15,3,1,0.5
+Kent Ridge Hall,2025-12-28,Sunday,16,3,1,0.4
+Kent Ridge Hall,2025-12-28,Sunday,17,3,1,0.4
+Kent Ridge Hall,2025-12-28,Sunday,18,3,3,0.9
+Kent Ridge Hall,2025-12-28,Sunday,19,3,2,0.8
+Kent Ridge Hall,2025-12-28,Sunday,20,3,3,0.9
+Kent Ridge Hall,2025-12-28,Sunday,21,3,1,0.3
+Kent Ridge Hall,2025-12-28,Sunday,22,3,1,0.5
+Kent Ridge Hall,2025-12-29,Monday,7,3,0,0.1
+Kent Ridge Hall,2025-12-29,Monday,8,3,0,0.1
+Kent Ridge Hall,2025-12-29,Monday,9,3,1,0.4
+Kent Ridge Hall,2025-12-29,Monday,10,3,1,0.5
+Kent Ridge Hall,2025-12-29,Monday,11,3,0,0.1
+Kent Ridge Hall,2025-12-29,Monday,12,3,1,0.5
+Kent Ridge Hall,2025-12-29,Monday,13,3,0,0.1
+Kent Ridge Hall,2025-12-29,Monday,14,3,1,0.5
+Kent Ridge Hall,2025-12-29,Monday,15,3,1,0.5
+Kent Ridge Hall,2025-12-29,Monday,16,3,1,0.4
+Kent Ridge Hall,2025-12-29,Monday,17,3,1,0.4
+Kent Ridge Hall,2025-12-29,Monday,18,3,2,0.8
+Kent Ridge Hall,2025-12-29,Monday,19,3,3,0.8
+Kent Ridge Hall,2025-12-29,Monday,20,3,3,0.9
+Kent Ridge Hall,2025-12-29,Monday,21,3,1,0.4
+Kent Ridge Hall,2025-12-29,Monday,22,3,1,0.4
+Kent Ridge Hall,2025-12-30,Tuesday,7,3,1,0.3
+Kent Ridge Hall,2025-12-30,Tuesday,8,3,0,0.1
+Kent Ridge Hall,2025-12-30,Tuesday,9,3,1,0.4
+Kent Ridge Hall,2025-12-30,Tuesday,10,3,1,0.3
+Kent Ridge Hall,2025-12-30,Tuesday,11,3,1,0.3
+Kent Ridge Hall,2025-12-30,Tuesday,12,3,1,0.3
+Kent Ridge Hall,2025-12-30,Tuesday,13,3,1,0.3
+Kent Ridge Hall,2025-12-30,Tuesday,14,3,1,0.3
+Kent Ridge Hall,2025-12-30,Tuesday,15,3,1,0.3
+Kent Ridge Hall,2025-12-30,Tuesday,16,3,1,0.4
+Kent Ridge Hall,2025-12-30,Tuesday,17,3,1,0.2
+Kent Ridge Hall,2025-12-30,Tuesday,18,3,2,0.8
+Kent Ridge Hall,2025-12-30,Tuesday,19,3,3,0.9
+Kent Ridge Hall,2025-12-30,Tuesday,20,3,2,0.8
+Kent Ridge Hall,2025-12-30,Tuesday,21,3,1,0.2
+Kent Ridge Hall,2025-12-30,Tuesday,22,3,1,0.5
+Kent Ridge Hall,2025-12-31,Wednesday,7,3,1,0.4
+Kent Ridge Hall,2025-12-31,Wednesday,8,3,1,0.3
+Kent Ridge Hall,2025-12-31,Wednesday,9,3,1,0.4
+Kent Ridge Hall,2025-12-31,Wednesday,10,3,1,0.2
+Kent Ridge Hall,2025-12-31,Wednesday,11,3,1,0.3
+Kent Ridge Hall,2025-12-31,Wednesday,12,3,1,0.2
+Kent Ridge Hall,2025-12-31,Wednesday,13,3,0,0.1
+Kent Ridge Hall,2025-12-31,Wednesday,14,3,1,0.3
+Kent Ridge Hall,2025-12-31,Wednesday,15,3,1,0.5
+Kent Ridge Hall,2025-12-31,Wednesday,16,3,1,0.4
+Kent Ridge Hall,2025-12-31,Wednesday,17,3,1,0.3
+Kent Ridge Hall,2025-12-31,Wednesday,18,3,2,0.6
+Kent Ridge Hall,2025-12-31,Wednesday,19,3,2,0.5
+Kent Ridge Hall,2025-12-31,Wednesday,20,3,2,0.8
+Kent Ridge Hall,2025-12-31,Wednesday,21,3,1,0.3
+Kent Ridge Hall,2025-12-31,Wednesday,22,3,0,0.1
+Kent Ridge Hall,2026-01-01,Thursday,7,3,1,0.4
+Kent Ridge Hall,2026-01-01,Thursday,8,3,1,0.4
+Kent Ridge Hall,2026-01-01,Thursday,9,3,1,0.5
+Kent Ridge Hall,2026-01-01,Thursday,10,3,1,0.2
+Kent Ridge Hall,2026-01-01,Thursday,11,3,1,0.2
+Kent Ridge Hall,2026-01-01,Thursday,12,3,1,0.3
+Kent Ridge Hall,2026-01-01,Thursday,13,3,1,0.2
+Kent Ridge Hall,2026-01-01,Thursday,14,3,1,0.2
+Kent Ridge Hall,2026-01-01,Thursday,15,3,1,0.5
+Kent Ridge Hall,2026-01-01,Thursday,16,3,1,0.4
+Kent Ridge Hall,2026-01-01,Thursday,17,3,1,0.3
+Kent Ridge Hall,2026-01-01,Thursday,18,3,2,0.7
+Kent Ridge Hall,2026-01-01,Thursday,19,3,2,0.8
+Kent Ridge Hall,2026-01-01,Thursday,20,3,2,0.7
+Kent Ridge Hall,2026-01-01,Thursday,21,3,1,0.3
+Kent Ridge Hall,2026-01-01,Thursday,22,3,1,0.3
+Kent Ridge Hall,2026-01-02,Friday,7,3,1,0.5
+Kent Ridge Hall,2026-01-02,Friday,8,3,1,0.4
+Kent Ridge Hall,2026-01-02,Friday,9,3,1,0.3
+Kent Ridge Hall,2026-01-02,Friday,10,3,1,0.2
+Kent Ridge Hall,2026-01-02,Friday,11,3,1,0.2
+Kent Ridge Hall,2026-01-02,Friday,12,3,0,0.1
+Kent Ridge Hall,2026-01-02,Friday,13,3,1,0.4
+Kent Ridge Hall,2026-01-02,Friday,14,3,1,0.4
+Kent Ridge Hall,2026-01-02,Friday,15,3,1,0.4
+Kent Ridge Hall,2026-01-02,Friday,16,3,1,0.3
+Kent Ridge Hall,2026-01-02,Friday,17,3,1,0.2
+Kent Ridge Hall,2026-01-02,Friday,18,3,2,0.7
+Kent Ridge Hall,2026-01-02,Friday,19,3,2,0.8
+Kent Ridge Hall,2026-01-02,Friday,20,3,2,0.7
+Kent Ridge Hall,2026-01-02,Friday,21,3,1,0.4
+Kent Ridge Hall,2026-01-02,Friday,22,3,0,0.1
+Kent Ridge Hall,2026-01-03,Saturday,7,3,2,0.5
+Kent Ridge Hall,2026-01-03,Saturday,8,3,2,0.5
+Kent Ridge Hall,2026-01-03,Saturday,9,3,1,0.3
+Kent Ridge Hall,2026-01-03,Saturday,10,3,2,0.6
+Kent Ridge Hall,2026-01-03,Saturday,11,3,1,0.3
+Kent Ridge Hall,2026-01-03,Saturday,12,3,1,0.5
+Kent Ridge Hall,2026-01-03,Saturday,13,3,1,0.5
+Kent Ridge Hall,2026-01-03,Saturday,14,3,2,0.5
+Kent Ridge Hall,2026-01-03,Saturday,15,3,2,0.6
+Kent Ridge Hall,2026-01-03,Saturday,16,3,2,0.6
+Kent Ridge Hall,2026-01-03,Saturday,17,3,2,0.7
+Kent Ridge Hall,2026-01-03,Saturday,18,3,2,0.7
+Kent Ridge Hall,2026-01-03,Saturday,19,3,2,0.8
+Kent Ridge Hall,2026-01-03,Saturday,20,3,2,0.8
+Kent Ridge Hall,2026-01-03,Saturday,21,3,2,0.6
+Kent Ridge Hall,2026-01-03,Saturday,22,3,1,0.4
+Kent Ridge Hall,2026-01-04,Sunday,7,3,2,0.6
+Kent Ridge Hall,2026-01-04,Sunday,8,3,1,0.4
+Kent Ridge Hall,2026-01-04,Sunday,9,3,2,0.6
+Kent Ridge Hall,2026-01-04,Sunday,10,3,1,0.3
+Kent Ridge Hall,2026-01-04,Sunday,11,3,2,0.5
+Kent Ridge Hall,2026-01-04,Sunday,12,3,1,0.5
+Kent Ridge Hall,2026-01-04,Sunday,13,3,1,0.3
+Kent Ridge Hall,2026-01-04,Sunday,14,3,2,0.6
+Kent Ridge Hall,2026-01-04,Sunday,15,3,1,0.4
+Kent Ridge Hall,2026-01-04,Sunday,16,3,2,0.6
+Kent Ridge Hall,2026-01-04,Sunday,17,3,2,0.7
+Kent Ridge Hall,2026-01-04,Sunday,18,3,3,1.0
+Kent Ridge Hall,2026-01-04,Sunday,19,3,3,1.0
+Kent Ridge Hall,2026-01-04,Sunday,20,3,3,1.0
+Kent Ridge Hall,2026-01-04,Sunday,21,3,2,0.7
+Kent Ridge Hall,2026-01-04,Sunday,22,3,1,0.3
+Kent Ridge Hall,2026-01-05,Monday,7,3,1,0.4
+Kent Ridge Hall,2026-01-05,Monday,8,3,1,0.4
+Kent Ridge Hall,2026-01-05,Monday,9,3,1,0.3
+Kent Ridge Hall,2026-01-05,Monday,10,3,1,0.5
+Kent Ridge Hall,2026-01-05,Monday,11,3,0,0.1
+Kent Ridge Hall,2026-01-05,Monday,12,3,0,0.2
+Kent Ridge Hall,2026-01-05,Monday,13,3,0,0.1
+Kent Ridge Hall,2026-01-05,Monday,14,3,1,0.2
+Kent Ridge Hall,2026-01-05,Monday,15,3,0,0.1
+Kent Ridge Hall,2026-01-05,Monday,16,3,1,0.2
+Kent Ridge Hall,2026-01-05,Monday,17,3,1,0.3
+Kent Ridge Hall,2026-01-05,Monday,18,3,2,0.7
+Kent Ridge Hall,2026-01-05,Monday,19,3,2,0.8
+Kent Ridge Hall,2026-01-05,Monday,20,3,2,0.6
+Kent Ridge Hall,2026-01-05,Monday,21,3,1,0.3
+Kent Ridge Hall,2026-01-05,Monday,22,3,1,0.3
+Kent Ridge Hall,2026-01-06,Tuesday,7,3,0,0.1
+Kent Ridge Hall,2026-01-06,Tuesday,8,3,1,0.5
+Kent Ridge Hall,2026-01-06,Tuesday,9,3,1,0.4
+Kent Ridge Hall,2026-01-06,Tuesday,10,3,1,0.2
+Kent Ridge Hall,2026-01-06,Tuesday,11,3,1,0.3
+Kent Ridge Hall,2026-01-06,Tuesday,12,3,1,0.4
+Kent Ridge Hall,2026-01-06,Tuesday,13,3,1,0.4
+Kent Ridge Hall,2026-01-06,Tuesday,14,3,1,0.4
+Kent Ridge Hall,2026-01-06,Tuesday,15,3,1,0.5
+Kent Ridge Hall,2026-01-06,Tuesday,16,3,1,0.4
+Kent Ridge Hall,2026-01-06,Tuesday,17,3,1,0.4
+Kent Ridge Hall,2026-01-06,Tuesday,18,3,2,0.7
+Kent Ridge Hall,2026-01-06,Tuesday,19,3,2,0.6
+Kent Ridge Hall,2026-01-06,Tuesday,20,3,2,0.7
+Kent Ridge Hall,2026-01-06,Tuesday,21,3,1,0.3
+Kent Ridge Hall,2026-01-06,Tuesday,22,3,1,0.5
+Kent Ridge Hall,2026-01-07,Wednesday,7,3,1,0.5
+Kent Ridge Hall,2026-01-07,Wednesday,8,3,1,0.4
+Kent Ridge Hall,2026-01-07,Wednesday,9,3,1,0.2
+Kent Ridge Hall,2026-01-07,Wednesday,10,3,0,0.1
+Kent Ridge Hall,2026-01-07,Wednesday,11,3,1,0.3
+Kent Ridge Hall,2026-01-07,Wednesday,12,3,1,0.3
+Kent Ridge Hall,2026-01-07,Wednesday,13,3,1,0.2
+Kent Ridge Hall,2026-01-07,Wednesday,14,3,0,0.1
+Kent Ridge Hall,2026-01-07,Wednesday,15,3,1,0.2
+Kent Ridge Hall,2026-01-07,Wednesday,16,3,1,0.2
+Kent Ridge Hall,2026-01-07,Wednesday,17,3,1,0.4
+Kent Ridge Hall,2026-01-07,Wednesday,18,3,2,0.6
+Kent Ridge Hall,2026-01-07,Wednesday,19,3,3,0.9
+Kent Ridge Hall,2026-01-07,Wednesday,20,3,2,0.6
+Kent Ridge Hall,2026-01-07,Wednesday,21,3,1,0.4
+Kent Ridge Hall,2026-01-07,Wednesday,22,3,1,0.3
+Kent Ridge Hall,2026-01-08,Thursday,7,3,1,0.4
+Kent Ridge Hall,2026-01-08,Thursday,8,3,1,0.3
+Kent Ridge Hall,2026-01-08,Thursday,9,3,1,0.4
+Kent Ridge Hall,2026-01-08,Thursday,10,3,1,0.4
+Kent Ridge Hall,2026-01-08,Thursday,11,3,1,0.3
+Kent Ridge Hall,2026-01-08,Thursday,12,3,0,0.2
+Kent Ridge Hall,2026-01-08,Thursday,13,3,1,0.2
+Kent Ridge Hall,2026-01-08,Thursday,14,3,1,0.2
+Kent Ridge Hall,2026-01-08,Thursday,15,3,1,0.3
+Kent Ridge Hall,2026-01-08,Thursday,16,3,0,0.2
+Kent Ridge Hall,2026-01-08,Thursday,17,3,1,0.4
+Kent Ridge Hall,2026-01-08,Thursday,18,3,2,0.6
+Kent Ridge Hall,2026-01-08,Thursday,19,3,2,0.5
+Kent Ridge Hall,2026-01-08,Thursday,20,3,2,0.7
+Kent Ridge Hall,2026-01-08,Thursday,21,3,1,0.2
+Kent Ridge Hall,2026-01-08,Thursday,22,3,0,0.1
+Kent Ridge Hall,2026-01-09,Friday,7,3,1,0.4
+Kent Ridge Hall,2026-01-09,Friday,8,3,1,0.4
+Kent Ridge Hall,2026-01-09,Friday,9,3,1,0.3
+Kent Ridge Hall,2026-01-09,Friday,10,3,0,0.2
+Kent Ridge Hall,2026-01-09,Friday,11,3,1,0.2
+Kent Ridge Hall,2026-01-09,Friday,12,3,0,0.1
+Kent Ridge Hall,2026-01-09,Friday,13,3,1,0.5
+Kent Ridge Hall,2026-01-09,Friday,14,3,1,0.4
+Kent Ridge Hall,2026-01-09,Friday,15,3,1,0.4
+Kent Ridge Hall,2026-01-09,Friday,16,3,1,0.2
+Kent Ridge Hall,2026-01-09,Friday,17,3,1,0.4
+Kent Ridge Hall,2026-01-09,Friday,18,3,2,0.7
+Kent Ridge Hall,2026-01-09,Friday,19,3,2,0.7
+Kent Ridge Hall,2026-01-09,Friday,20,3,2,0.6
+Kent Ridge Hall,2026-01-09,Friday,21,3,1,0.4
+Kent Ridge Hall,2026-01-09,Friday,22,3,1,0.4
+Kent Ridge Hall,2026-01-10,Saturday,7,3,2,0.6
+Kent Ridge Hall,2026-01-10,Saturday,8,3,1,0.3
+Kent Ridge Hall,2026-01-10,Saturday,9,3,1,0.3
+Kent Ridge Hall,2026-01-10,Saturday,10,3,2,0.6
+Kent Ridge Hall,2026-01-10,Saturday,11,3,1,0.3
+Kent Ridge Hall,2026-01-10,Saturday,12,3,2,0.6
+Kent Ridge Hall,2026-01-10,Saturday,13,3,1,0.3
+Kent Ridge Hall,2026-01-10,Saturday,14,3,1,0.3
+Kent Ridge Hall,2026-01-10,Saturday,15,3,1,0.4
+Kent Ridge Hall,2026-01-10,Saturday,16,3,1,0.4
+Kent Ridge Hall,2026-01-10,Saturday,17,3,1,0.3
+Kent Ridge Hall,2026-01-10,Saturday,18,3,3,1.0
+Kent Ridge Hall,2026-01-10,Saturday,19,3,2,0.8
+Kent Ridge Hall,2026-01-10,Saturday,20,3,2,0.7
+Kent Ridge Hall,2026-01-10,Saturday,21,3,2,0.6
+Kent Ridge Hall,2026-01-10,Saturday,22,3,1,0.5
+Kent Ridge Hall,2026-01-11,Sunday,7,3,1,0.4
+Kent Ridge Hall,2026-01-11,Sunday,8,3,1,0.4
+Kent Ridge Hall,2026-01-11,Sunday,9,3,2,0.5
+Kent Ridge Hall,2026-01-11,Sunday,10,3,1,0.4
+Kent Ridge Hall,2026-01-11,Sunday,11,3,1,0.3
+Kent Ridge Hall,2026-01-11,Sunday,12,3,1,0.4
+Kent Ridge Hall,2026-01-11,Sunday,13,3,1,0.5
+Kent Ridge Hall,2026-01-11,Sunday,14,3,2,0.7
+Kent Ridge Hall,2026-01-11,Sunday,15,3,1,0.4
+Kent Ridge Hall,2026-01-11,Sunday,16,3,1,0.5
+Kent Ridge Hall,2026-01-11,Sunday,17,3,1,0.5
+Kent Ridge Hall,2026-01-11,Sunday,18,3,3,1.0
+Kent Ridge Hall,2026-01-11,Sunday,19,3,3,0.9
+Kent Ridge Hall,2026-01-11,Sunday,20,3,3,1.0
+Kent Ridge Hall,2026-01-11,Sunday,21,3,2,0.5
+Kent Ridge Hall,2026-01-11,Sunday,22,3,2,0.7
+Kent Ridge Hall,2026-01-12,Monday,7,3,1,0.2
+Kent Ridge Hall,2026-01-12,Monday,8,3,1,0.2
+Kent Ridge Hall,2026-01-12,Monday,9,3,1,0.3
+Kent Ridge Hall,2026-01-12,Monday,10,3,1,0.3
+Kent Ridge Hall,2026-01-12,Monday,11,3,1,0.3
+Kent Ridge Hall,2026-01-12,Monday,12,3,1,0.5
+Kent Ridge Hall,2026-01-12,Monday,13,3,1,0.4
+Kent Ridge Hall,2026-01-12,Monday,14,3,1,0.3
+Kent Ridge Hall,2026-01-12,Monday,15,3,1,0.3
+Kent Ridge Hall,2026-01-12,Monday,16,3,0,0.2
+Kent Ridge Hall,2026-01-12,Monday,17,3,1,0.2
+Kent Ridge Hall,2026-01-12,Monday,18,3,3,0.8
+Kent Ridge Hall,2026-01-12,Monday,19,3,2,0.5
+Kent Ridge Hall,2026-01-12,Monday,20,3,2,0.7
+Kent Ridge Hall,2026-01-12,Monday,21,3,1,0.3
+Kent Ridge Hall,2026-01-12,Monday,22,3,1,0.2
+Kent Ridge Hall,2026-01-13,Tuesday,7,3,1,0.3
+Kent Ridge Hall,2026-01-13,Tuesday,8,3,1,0.3
+Kent Ridge Hall,2026-01-13,Tuesday,9,3,1,0.3
+Kent Ridge Hall,2026-01-13,Tuesday,10,3,0,0.2
+Kent Ridge Hall,2026-01-13,Tuesday,11,3,1,0.3
+Kent Ridge Hall,2026-01-13,Tuesday,12,3,1,0.2
+Kent Ridge Hall,2026-01-13,Tuesday,13,3,0,0.1
+Kent Ridge Hall,2026-01-13,Tuesday,14,3,1,0.4
+Kent Ridge Hall,2026-01-13,Tuesday,15,3,1,0.2
+Kent Ridge Hall,2026-01-13,Tuesday,16,3,1,0.3
+Kent Ridge Hall,2026-01-13,Tuesday,17,3,0,0.1
+Kent Ridge Hall,2026-01-13,Tuesday,18,3,2,0.6
+Kent Ridge Hall,2026-01-13,Tuesday,19,3,2,0.6
+Kent Ridge Hall,2026-01-13,Tuesday,20,3,2,0.8
+Kent Ridge Hall,2026-01-13,Tuesday,21,3,1,0.4
+Kent Ridge Hall,2026-01-13,Tuesday,22,3,0,0.1
+Kent Ridge Hall,2026-01-14,Wednesday,7,3,1,0.3
+Kent Ridge Hall,2026-01-14,Wednesday,8,3,1,0.4
+Kent Ridge Hall,2026-01-14,Wednesday,9,3,1,0.3
+Kent Ridge Hall,2026-01-14,Wednesday,10,3,1,0.3
+Kent Ridge Hall,2026-01-14,Wednesday,11,3,1,0.4
+Kent Ridge Hall,2026-01-14,Wednesday,12,3,1,0.3
+Kent Ridge Hall,2026-01-14,Wednesday,13,3,1,0.2
+Kent Ridge Hall,2026-01-14,Wednesday,14,3,0,0.1
+Kent Ridge Hall,2026-01-14,Wednesday,15,3,1,0.4
+Kent Ridge Hall,2026-01-14,Wednesday,16,3,0,0.1
+Kent Ridge Hall,2026-01-14,Wednesday,17,3,1,0.5
+Kent Ridge Hall,2026-01-14,Wednesday,18,3,2,0.6
+Kent Ridge Hall,2026-01-14,Wednesday,19,3,2,0.7
+Kent Ridge Hall,2026-01-14,Wednesday,20,3,2,0.8
+Kent Ridge Hall,2026-01-14,Wednesday,21,3,1,0.2
+Kent Ridge Hall,2026-01-14,Wednesday,22,3,1,0.3
+Kent Ridge Hall,2026-01-15,Thursday,7,3,1,0.3
+Kent Ridge Hall,2026-01-15,Thursday,8,3,0,0.2
+Kent Ridge Hall,2026-01-15,Thursday,9,3,1,0.3
+Kent Ridge Hall,2026-01-15,Thursday,10,3,1,0.3
+Kent Ridge Hall,2026-01-15,Thursday,11,3,1,0.2
+Kent Ridge Hall,2026-01-15,Thursday,12,3,1,0.4
+Kent Ridge Hall,2026-01-15,Thursday,13,3,1,0.5
+Kent Ridge Hall,2026-01-15,Thursday,14,3,1,0.4
+Kent Ridge Hall,2026-01-15,Thursday,15,3,1,0.5
+Kent Ridge Hall,2026-01-15,Thursday,16,3,1,0.5
+Kent Ridge Hall,2026-01-15,Thursday,17,3,1,0.3
+Kent Ridge Hall,2026-01-15,Thursday,18,3,2,0.6
+Kent Ridge Hall,2026-01-15,Thursday,19,3,2,0.5
+Kent Ridge Hall,2026-01-15,Thursday,20,3,2,0.5
+Kent Ridge Hall,2026-01-15,Thursday,21,3,1,0.2
+Kent Ridge Hall,2026-01-15,Thursday,22,3,0,0.1
+Kent Ridge Hall,2026-01-16,Friday,7,3,1,0.3
+Kent Ridge Hall,2026-01-16,Friday,8,3,0,0.1
+Kent Ridge Hall,2026-01-16,Friday,9,3,1,0.4
+Kent Ridge Hall,2026-01-16,Friday,10,3,1,0.5
+Kent Ridge Hall,2026-01-16,Friday,11,3,0,0.1
+Kent Ridge Hall,2026-01-16,Friday,12,3,1,0.3
+Kent Ridge Hall,2026-01-16,Friday,13,3,1,0.3
+Kent Ridge Hall,2026-01-16,Friday,14,3,1,0.2
+Kent Ridge Hall,2026-01-16,Friday,15,3,1,0.2
+Kent Ridge Hall,2026-01-16,Friday,16,3,1,0.4
+Kent Ridge Hall,2026-01-16,Friday,17,3,1,0.2
+Kent Ridge Hall,2026-01-16,Friday,18,3,2,0.8
+Kent Ridge Hall,2026-01-16,Friday,19,3,3,0.9
+Kent Ridge Hall,2026-01-16,Friday,20,3,2,0.6
+Kent Ridge Hall,2026-01-16,Friday,21,3,1,0.2
+Kent Ridge Hall,2026-01-16,Friday,22,3,1,0.4
+Kent Ridge Hall,2026-01-17,Saturday,7,3,1,0.4
+Kent Ridge Hall,2026-01-17,Saturday,8,3,2,0.5
+Kent Ridge Hall,2026-01-17,Saturday,9,3,2,0.6
+Kent Ridge Hall,2026-01-17,Saturday,10,3,1,0.4
+Kent Ridge Hall,2026-01-17,Saturday,11,3,2,0.6
+Kent Ridge Hall,2026-01-17,Saturday,12,3,2,0.6
+Kent Ridge Hall,2026-01-17,Saturday,13,3,1,0.5
+Kent Ridge Hall,2026-01-17,Saturday,14,3,1,0.4
+Kent Ridge Hall,2026-01-17,Saturday,15,3,1,0.5
+Kent Ridge Hall,2026-01-17,Saturday,16,3,1,0.3
+Kent Ridge Hall,2026-01-17,Saturday,17,3,1,0.5
+Kent Ridge Hall,2026-01-17,Saturday,18,3,3,1.0
+Kent Ridge Hall,2026-01-17,Saturday,19,3,3,0.9
+Kent Ridge Hall,2026-01-17,Saturday,20,3,3,0.8
+Kent Ridge Hall,2026-01-17,Saturday,21,3,1,0.4
+Kent Ridge Hall,2026-01-17,Saturday,22,3,2,0.6
+Kent Ridge Hall,2026-01-18,Sunday,7,3,2,0.6
+Kent Ridge Hall,2026-01-18,Sunday,8,3,1,0.4
+Kent Ridge Hall,2026-01-18,Sunday,9,3,1,0.4
+Kent Ridge Hall,2026-01-18,Sunday,10,3,2,0.6
+Kent Ridge Hall,2026-01-18,Sunday,11,3,2,0.7
+Kent Ridge Hall,2026-01-18,Sunday,12,3,2,0.6
+Kent Ridge Hall,2026-01-18,Sunday,13,3,2,0.5
+Kent Ridge Hall,2026-01-18,Sunday,14,3,1,0.4
+Kent Ridge Hall,2026-01-18,Sunday,15,3,1,0.5
+Kent Ridge Hall,2026-01-18,Sunday,16,3,2,0.6
+Kent Ridge Hall,2026-01-18,Sunday,17,3,2,0.6
+Kent Ridge Hall,2026-01-18,Sunday,18,3,3,1.0
+Kent Ridge Hall,2026-01-18,Sunday,19,3,2,0.8
+Kent Ridge Hall,2026-01-18,Sunday,20,3,2,0.8
+Kent Ridge Hall,2026-01-18,Sunday,21,3,2,0.5
+Kent Ridge Hall,2026-01-18,Sunday,22,3,2,0.5
+Kent Ridge Hall,2026-01-19,Monday,7,3,0,0.1
+Kent Ridge Hall,2026-01-19,Monday,8,3,1,0.3
+Kent Ridge Hall,2026-01-19,Monday,9,3,0,0.1
+Kent Ridge Hall,2026-01-19,Monday,10,3,1,0.4
+Kent Ridge Hall,2026-01-19,Monday,11,3,1,0.4
+Kent Ridge Hall,2026-01-19,Monday,12,3,0,0.1
+Kent Ridge Hall,2026-01-19,Monday,13,3,1,0.4
+Kent Ridge Hall,2026-01-19,Monday,14,3,1,0.2
+Kent Ridge Hall,2026-01-19,Monday,15,3,0,0.1
+Kent Ridge Hall,2026-01-19,Monday,16,3,1,0.4
+Kent Ridge Hall,2026-01-19,Monday,17,3,1,0.2
+Kent Ridge Hall,2026-01-19,Monday,18,3,3,0.8
+Kent Ridge Hall,2026-01-19,Monday,19,3,2,0.5
+Kent Ridge Hall,2026-01-19,Monday,20,3,2,0.8
+Kent Ridge Hall,2026-01-19,Monday,21,3,1,0.2
+Kent Ridge Hall,2026-01-19,Monday,22,3,1,0.3
+Kent Ridge Hall,2026-01-20,Tuesday,7,3,1,0.3
+Kent Ridge Hall,2026-01-20,Tuesday,8,3,1,0.2
+Kent Ridge Hall,2026-01-20,Tuesday,9,3,1,0.2
+Kent Ridge Hall,2026-01-20,Tuesday,10,3,1,0.2
+Kent Ridge Hall,2026-01-20,Tuesday,11,3,1,0.3
+Kent Ridge Hall,2026-01-20,Tuesday,12,3,1,0.2
+Kent Ridge Hall,2026-01-20,Tuesday,13,3,1,0.4
+Kent Ridge Hall,2026-01-20,Tuesday,14,3,1,0.4
+Kent Ridge Hall,2026-01-20,Tuesday,15,3,1,0.4
+Kent Ridge Hall,2026-01-20,Tuesday,16,3,0,0.2
+Kent Ridge Hall,2026-01-20,Tuesday,17,3,1,0.2
+Kent Ridge Hall,2026-01-20,Tuesday,18,3,3,0.8
+Kent Ridge Hall,2026-01-20,Tuesday,19,3,3,0.9
+Kent Ridge Hall,2026-01-20,Tuesday,20,3,2,0.7
+Kent Ridge Hall,2026-01-20,Tuesday,21,3,1,0.4
+Kent Ridge Hall,2026-01-20,Tuesday,22,3,1,0.2
+Kent Ridge Hall,2026-01-21,Wednesday,7,3,1,0.2
+Kent Ridge Hall,2026-01-21,Wednesday,8,3,1,0.5
+Kent Ridge Hall,2026-01-21,Wednesday,9,3,1,0.4
+Kent Ridge Hall,2026-01-21,Wednesday,10,3,1,0.3
+Kent Ridge Hall,2026-01-21,Wednesday,11,3,1,0.4
+Kent Ridge Hall,2026-01-21,Wednesday,12,3,1,0.3
+Kent Ridge Hall,2026-01-21,Wednesday,13,3,1,0.4
+Kent Ridge Hall,2026-01-21,Wednesday,14,3,1,0.4
+Kent Ridge Hall,2026-01-21,Wednesday,15,3,1,0.3
+Kent Ridge Hall,2026-01-21,Wednesday,16,3,0,0.1
+Kent Ridge Hall,2026-01-21,Wednesday,17,3,0,0.1
+Kent Ridge Hall,2026-01-21,Wednesday,18,3,2,0.7
+Kent Ridge Hall,2026-01-21,Wednesday,19,3,3,0.9
+Kent Ridge Hall,2026-01-21,Wednesday,20,3,2,0.8
+Kent Ridge Hall,2026-01-21,Wednesday,21,3,1,0.3
+Kent Ridge Hall,2026-01-21,Wednesday,22,3,1,0.4
+Kent Ridge Hall,2026-01-22,Thursday,7,3,1,0.4
+Kent Ridge Hall,2026-01-22,Thursday,8,3,1,0.3
+Kent Ridge Hall,2026-01-22,Thursday,9,3,1,0.4
+Kent Ridge Hall,2026-01-22,Thursday,10,3,0,0.1
+Kent Ridge Hall,2026-01-22,Thursday,11,3,1,0.2
+Kent Ridge Hall,2026-01-22,Thursday,12,3,1,0.4
+Kent Ridge Hall,2026-01-22,Thursday,13,3,1,0.2
+Kent Ridge Hall,2026-01-22,Thursday,14,3,1,0.5
+Kent Ridge Hall,2026-01-22,Thursday,15,3,0,0.1
+Kent Ridge Hall,2026-01-22,Thursday,16,3,0,0.1
+Kent Ridge Hall,2026-01-22,Thursday,17,3,0,0.1
+Kent Ridge Hall,2026-01-22,Thursday,18,3,3,0.9
+Kent Ridge Hall,2026-01-22,Thursday,19,3,2,0.8
+Kent Ridge Hall,2026-01-22,Thursday,20,3,2,0.6
+Kent Ridge Hall,2026-01-22,Thursday,21,3,0,0.1
+Kent Ridge Hall,2026-01-22,Thursday,22,3,0,0.1
+Kent Ridge Hall,2026-01-23,Friday,7,3,1,0.4
+Kent Ridge Hall,2026-01-23,Friday,8,3,1,0.3
+Kent Ridge Hall,2026-01-23,Friday,9,3,1,0.3
+Kent Ridge Hall,2026-01-23,Friday,10,3,1,0.5
+Kent Ridge Hall,2026-01-23,Friday,11,3,1,0.2
+Kent Ridge Hall,2026-01-23,Friday,12,3,1,0.3
+Kent Ridge Hall,2026-01-23,Friday,13,3,1,0.5
+Kent Ridge Hall,2026-01-23,Friday,14,3,0,0.1
+Kent Ridge Hall,2026-01-23,Friday,15,3,1,0.2
+Kent Ridge Hall,2026-01-23,Friday,16,3,1,0.4
+Kent Ridge Hall,2026-01-23,Friday,17,3,1,0.4
+Kent Ridge Hall,2026-01-23,Friday,18,3,2,0.7
+Kent Ridge Hall,2026-01-23,Friday,19,3,2,0.6
+Kent Ridge Hall,2026-01-23,Friday,20,3,2,0.8
+Kent Ridge Hall,2026-01-23,Friday,21,3,1,0.4
+Kent Ridge Hall,2026-01-23,Friday,22,3,1,0.3
